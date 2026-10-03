@@ -1,0 +1,38 @@
+{% extends "base.html" %}
+
+{% block content %}
+<section class="page-title">
+    <div>
+        <p class="eyebrow">Adivina el personaje</p>
+        <h1>¿Quién es ese Yokai?</h1>
+    </div>
+</section>
+
+<section class="guess-game" aria-labelledby="game-title">
+    <div class="guess-image-frame">
+        <img id="guess-image" class="guess-silhouette" src="" alt="Silueta misteriosa">
+    </div>
+    <p class="guess-score">Aciertos: <strong id="guess-score">0</strong></p>
+
+    <form id="guess-form" class="guess-form" autocomplete="off">
+        <label for="guess-input">¿Quién crees que es?</label>
+        <div class="guess-controls">
+            <input id="guess-input" type="text" placeholder="Escribe el nombre del Yokai" autocomplete="off">
+            <button class="button primary" type="submit">Adivinar</button>
+        </div>
+    </form>
+
+    <p class="guess-feedback" id="guess-feedback" role="status" aria-live="polite">Escribe tu respuesta o pulsa «Revelar».</p>
+    <div class="guess-answer" id="guess-answer" hidden>
+        <h2 id="answer-name"></h2>
+        <div class="types" id="answer-types"></div>
+    </div>
+    <div class="guess-actions">
+        <button class="button" id="reveal-answer" type="button">Revelar</button>
+        <button class="button primary" id="next-guess" type="button" hidden>Siguiente Yokai</button>
+    </div>
+</section>
+
+<script id="yokai-game-data" type="application/json">{{ yokais|tojson }}</script>
+<script src="{{ url_for('static', filename='js/guess_game.js') }}" defer></script>
+{% endblock %}

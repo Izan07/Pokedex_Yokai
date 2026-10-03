@@ -1,0 +1,312 @@
+﻿nombre,slug,ruta_imagen_esperada,archivo_actual,estado
+Robin Ful,robin-ful,/public/images/yokais/robin-ful.jpg,Robin_Ful.jpg,Encontrada
+Tornalmohado,tornalmohado,/public/images/yokais/tornalmohado.jpg,Tornalmohado.jpg,Encontrada
+Alcaldero,alcaldero,/public/images/yokais/alcaldero.jpg,Alcaldero.png,Encontrada
+Sinná,sinna,/public/images/yokais/sinna.jpg,Sinna.png,Encontrada
+Sinnareno,sinnareno,/public/images/yokais/sinnareno.jpg,Sinnareno.jpg,Encontrada
+Katano,katano,/public/images/yokais/katano.jpg,Katano.png,Encontrada
+Katanai,katanai,/public/images/yokais/katanai.jpg,Katanai.png,Encontrada
+Katakroken,katakroken,/public/images/yokais/katakroken.jpg,Katakroken.jpg,Encontrada
+Milimpiano,milimpiano,/public/images/yokais/milimpiano.jpg,Milimpiano.png,Encontrada
+Samulimpio,samulimpio,/public/images/yokais/samulimpio.jpg,Samulimpio.png,Encontrada
+Dormileon,dormileon,/public/images/yokais/dormileon.jpg,Dormileon.png,Encontrada
+Leon Alfa,leon-alfa,/public/images/yokais/leon-alfa.jpg,Leon_Alfa.png,Encontrada
+Pataleto,pataleto,/public/images/yokais/pataleto.jpg,Pataleto.png,Encontrada
+Osfurio,osfurio,/public/images/yokais/osfurio.jpg,Osfurio.jpg,Encontrada
+Sacoco,sacoco,/public/images/yokais/sacoco.jpg,Sacoco.png,Encontrada
+Gran coco,gran-coco,/public/images/yokais/gran-coco.jpg,Gran_coco.png,Encontrada
+Mochimacho,mochimacho,/public/images/yokais/mochimacho.jpg,Mochimacho.png,Encontrada
+Bola Blanda,bola-blanda,/public/images/yokais/bola-blanda.jpg,Bola_Blanda.png,Encontrada
+Bateadós,bateados,/public/images/yokais/bateados.jpg,Bateados.png,Encontrada
+Puergazan,puergazan,/public/images/yokais/puergazan.jpg,Puergazan.jpg,Encontrada
+Torreznio,torreznio,/public/images/yokais/torreznio.jpg,Torreznio.jpg,Encontrada
+Samuranguila,samuranguila,/public/images/yokais/samuranguila.jpg,Samuranguila.jpg,Encontrada
+Anguilocio,anguilocio,/public/images/yokais/anguilocio.jpg,Anguilocio.jpg,Encontrada
+Yelmandante,yelmandante,/public/images/yokais/yelmandante.jpg,Yelmandante.png,Encontrada
+Juntollero,juntollero,/public/images/yokais/juntollero.jpg,Juntollero.png,Encontrada
+Genedaver,genedaver,/public/images/yokais/genedaver.jpg,Genedaver.jpg,Encontrada
+Cortarroz,cortarroz,/public/images/yokais/cortarroz.jpg,Cortarroz.png,Encontrada
+Socarrat,socarrat,/public/images/yokais/socarrat.jpg,Socarrat.png,Encontrada
+Chupatinas,chupatinas,/public/images/yokais/chupatinas.jpg,Chupatinas.png,Encontrada
+Chupapremios,chupapremios,/public/images/yokais/chupapremios.jpg,Chupapremios.png,Encontrada
+Guerrero Guey,guerrero-guey,/public/images/yokais/guerrero-guey.jpg,Guerrero_Guey.png,Encontrada
+Huracan Guey,huracan-guey,/public/images/yokais/huracan-guey.jpg,Huracan_Guey.png,Encontrada
+Atierrador,atierrador,/public/images/yokais/atierrador.jpg,Atierrador.png,Encontrada
+Piopio,piopio,/public/images/yokais/piopio.jpg,Piopio.jpg,Encontrada
+Benkei,benkei,/public/images/yokais/benkei.jpg,Benkei.png,Encontrada
+Flamileon,flamileon,/public/images/yokais/flamileon.jpg,Flamileon.png,Encontrada
+Tembloleon,tembloleon,/public/images/yokais/tembloleon.jpg,Tembloleon.jpg,Encontrada
+Sirleon,sirleon,/public/images/yokais/sirleon.jpg,Sirleon.jpg,Encontrada
+Ludorai,ludorai,/public/images/yokais/ludorai.jpg,Ludorai.png,Encontrada
+Lustre,lustre,/public/images/yokais/lustre.jpg,Lustre.png,Encontrada
+Dortre,dortre,/public/images/yokais/dortre.jpg,Dortre.png,Encontrada
+Dortre,dortre-2,/public/images/yokais/dortre-2.jpg,Dortre.jpg,Encontrada
+Hovernyan,hovernyan,/public/images/yokais/hovernyan.jpg,Hovernyan.png,Encontrada
+Ultra N,ultra-n,/public/images/yokais/ultra-n.jpg,Ultra_N.jpg,Encontrada
+Ultra K,ultra-k,/public/images/yokais/ultra-k.jpg,Ultra_K.jpg,Encontrada
+Globonauta,globonauta,/public/images/yokais/globonauta.jpg,Globonauta.png,Encontrada
+Lucharabajo,lucharabajo,/public/images/yokais/lucharabajo.jpg,Lucharabajo.png,Encontrada
+Camperabajo,camperabajo,/public/images/yokais/camperabajo.jpg,Camperabajo.png,Encontrada
+Chafarabajo,chafarabajo,/public/images/yokais/chafarabajo.jpg,Chafarabajo.png,Encontrada
+Capi-Cachas,capi-cachas,/public/images/yokais/capi-cachas.jpg,Capi-Cachas.png,Encontrada
+Devoramonios,devoramonios,/public/images/yokais/devoramonios.jpg,Devoramonios.png,Encontrada
+Devoralmas,devoralmas,/public/images/yokais/devoralmas.jpg,Devoralmas.jpg,Encontrada
+Shurikenny,shurikenny,/public/images/yokais/shurikenny.jpg,Shurikenny.png,Encontrada
+Fracaguas,fracaguas,/public/images/yokais/fracaguas.jpg,Fracaguas.png,Encontrada
+Cremallero,cremallero,/public/images/yokais/cremallero.jpg,Cremallero.jpg,Encontrada
+Mokopavo,mokopavo,/public/images/yokais/mokopavo.jpg,Mokopavo.png,Encontrada
+Yopaso,yopaso,/public/images/yokais/yopaso.jpg,Yopaso.png,Encontrada
+Puf,puf,/public/images/yokais/puf.jpg,Puf.png,Encontrada
+Komemo,komemo,/public/images/yokais/komemo.jpg,Komemo.png,Encontrada
+Komecasa,komecasa,/public/images/yokais/komecasa.jpg,Komecasa.png,Encontrada
+Mochueloqué,mochueloque,/public/images/yokais/mochueloque.jpg,Mochueloque.png,Encontrada
+Todoídos,todoidos,/public/images/yokais/todoidos.jpg,Todoidos.png,Encontrada
+Preguntio,preguntio,/public/images/yokais/preguntio.jpg,Preguntio.png,Encontrada
+Respondio,respondio,/public/images/yokais/respondio.jpg,Respondio.png,Encontrada
+Cascarito,cascarito,/public/images/yokais/cascarito.jpg,Cascarito.jpg,Encontrada
+Algazara,algazara,/public/images/yokais/algazara.jpg,Algazara.png,Encontrada
+Cotilleja,cotilleja,/public/images/yokais/cotilleja.jpg,Cotilleja.png,Encontrada
+Marulleja,marulleja,/public/images/yokais/marulleja.jpg,Marulleja.png,Encontrada
+Cupistolo,cupistolo,/public/images/yokais/cupistolo.jpg,Cupistolo.png,Encontrada
+Casanovo,casanovo,/public/images/yokais/casanovo.jpg,Casanovo.png,Encontrada
+Casanono,casanono,/public/images/yokais/casanono.jpg,Casanono.png,Encontrada
+Losiento,losiento,/public/images/yokais/losiento.jpg,Losiento.png,Encontrada
+Domiplof,domiplof,/public/images/yokais/domiplof.jpg,Domiplof.png,Encontrada
+Niebli,niebli,/public/images/yokais/niebli.jpg,Niebli.png,Encontrada
+Nebula,nebula,/public/images/yokais/nebula.jpg,Nebula.png,Encontrada
+Ondivoro,ondivoro,/public/images/yokais/ondivoro.jpg,Ondivoro.png,Encontrada
+Coberturo,coberturo,/public/images/yokais/coberturo.jpg,Coberturo.png,Encontrada
+Normalino,normalino,/public/images/yokais/normalino.jpg,Normalino.jpg,Encontrada
+Iluho,iluho,/public/images/yokais/iluho.jpg,Iluho.jpg,Encontrada
+Eluho,eluho,/public/images/yokais/eluho.jpg,Eluho.jpg,Encontrada
+Ubiuho,ubiuho,/public/images/yokais/ubiuho.jpg,Ubiuho.jpg,Encontrada
+Trilepata,trilepata,/public/images/yokais/trilepata.jpg,Trilepata.png,Encontrada
+Tetrariosa,tetrariosa,/public/images/yokais/tetrariosa.jpg,Tetrariosa.png,Encontrada
+Telespejo,telespejo,/public/images/yokais/telespejo.jpg,Telespejo.png,Encontrada
+Trielespejo,trielespejo,/public/images/yokais/trielespejo.jpg,Trielespejo.png,Encontrada
+Ambrosio,ambrosio,/public/images/yokais/ambrosio.jpg,Ambrosio.png,Encontrada
+Profesor Avertijo,profesor-avertijo,/public/images/yokais/profesor-avertijo.jpg,Profesor_Avertijo.png,Encontrada
+Estatiniño,estatinino,/public/images/yokais/estatinino.jpg,Estatinino.jpg,Encontrada
+Noaipapel,noaipapel,/public/images/yokais/noaipapel.jpg,Noaipapel.png,Encontrada
+Miss Teria,miss-teria,/public/images/yokais/miss-teria.jpg,Miss_Teria.png,Encontrada
+Tengu,tengu,/public/images/yokais/tengu.jpg,Tengu.png,Encontrada
+Kyubi,kyubi,/public/images/yokais/kyubi.jpg,Kyubi.png,Encontrada
+Nievacolas,nievacolas,/public/images/yokais/nievacolas.jpg,Nievacolas.jpg,Encontrada
+Oskyubi,oskyubi,/public/images/yokais/oskyubi.jpg,Oskyubi.jpg,Encontrada
+Kimera,kimera,/public/images/yokais/kimera.jpg,Kimera.jpg,Encontrada
+Isotomas,isotomas,/public/images/yokais/isotomas.jpg,Isotomas.jpg,Encontrada
+Coneagente,coneagente,/public/images/yokais/coneagente.jpg,Coneagente.jpg,Encontrada
+Tentelento,tentelento,/public/images/yokais/tentelento.jpg,Tentelento.jpg,Encontrada
+Tentemacho,tentemacho,/public/images/yokais/tentemacho.jpg,Tentemacho.jpg,Encontrada
+Tenterila,tenterila,/public/images/yokais/tenterila.jpg,Tenterila.jpg,Encontrada
+Quierodeso,quierodeso,/public/images/yokais/quierodeso.jpg,Quierodeso.jpg,Encontrada
+Gambulloso,gambulloso,/public/images/yokais/gambulloso.jpg,Gambulloso.jpg,Encontrada
+Indiligencio,indiligencio,/public/images/yokais/indiligencio.jpg,Indiligencio.jpg,Encontrada
+Tanquivocado,tanquivocado,/public/images/yokais/tanquivocado.jpg,Tanquivocado.jpg,Encontrada
+Aterracota,aterracota,/public/images/yokais/aterracota.jpg,Aterracota.jpg,Encontrada
+Explotacota,explotacota,/public/images/yokais/explotacota.jpg,Explotacota.jpg,Encontrada
+Nihablar,nihablar,/public/images/yokais/nihablar.jpg,Nihablar.jpg,Encontrada
+Impas,impas,/public/images/yokais/impas.jpg,Impas.jpg,Encontrada
+Rebelcebu,rebelcebu,/public/images/yokais/rebelcebu.jpg,Rebelcebu.jpg,Encontrada
+Caporrista,caporrista,/public/images/yokais/caporrista.jpg,Caporrista.jpg,Encontrada
+Hermanion,hermanion,/public/images/yokais/hermanion.jpg,Hermanion.jpg,Encontrada
+Chocovaca,chocovaca,/public/images/yokais/chocovaca.jpg,Chocovaca.jpg,Encontrada
+Vacaloca,vacaloca,/public/images/yokais/vacaloca.jpg,Vacaloca.jpg,Encontrada
+Fracalavero,fracalavero,/public/images/yokais/fracalavero.jpg,Fracalavero.jpg,Encontrada
+Calabilidoso,calabilidoso,/public/images/yokais/calabilidoso.jpg,Calabilidoso.jpg,Encontrada
+Lorigon,lorigon,/public/images/yokais/lorigon.jpg,Lorigon.jpg,Encontrada
+Monte Merario,monte-merario,/public/images/yokais/monte-merario.jpg,Monte_Merario.jpg,Encontrada
+Globqueo,globqueo,/public/images/yokais/globqueo.jpg,Globqueo.jpg,Encontrada
+Sumodon,sumodon,/public/images/yokais/sumodon.jpg,Sumodon.jpg,Encontrada
+Supersumodon,supersumodon,/public/images/yokais/supersumodon.jpg,Supersumodon.jpg,Encontrada
+Desinverest,desinverest,/public/images/yokais/desinverest.jpg,Desinverest.jpg,Encontrada
+Inverestupción,inverestupcion,/public/images/yokais/inverestupcion.jpg,Inverestupcion.jpg,Encontrada
+Inquielifante,inquielifante,/public/images/yokais/inquielifante.jpg,Inquielifante.jpg,Encontrada
+Mamuguanto,mamuguanto,/public/images/yokais/mamuguanto.jpg,Mamuguanto.jpg,Encontrada
+Rayael,rayael,/public/images/yokais/rayael.jpg,Rayael.jpg,Encontrada
+Rayael,rayael-2,/public/images/yokais/rayael-2.jpg,Rayael.jpg,Encontrada
+Calmarinero,calmarinero,/public/images/yokais/calmarinero.jpg,Calmarinero.jpg,Encontrada
+Almirante Admirable,almirante-admirable,/public/images/yokais/almirante-admirable.jpg,Almirante_Admirable.jpg,Encontrada
+Zudado,zudado,/public/images/yokais/zudado.jpg,Zudado.jpg,Encontrada
+Reahucio,reahucio,/public/images/yokais/reahucio.jpg,Reahucio.jpg,Encontrada
+Montaña Loca,montana-loca,/public/images/yokais/montana-loca.jpg,Montana_Loca.jpg,Encontrada
+Lord Lava,lord-lava,/public/images/yokais/lord-lava.jpg,Lord_Lava.jpg,Encontrada
+Castelius III,castelius-iii,/public/images/yokais/castelius-iii.jpg,Castelius_III.jpg,Encontrada
+Maxicastelius,maxicastelius,/public/images/yokais/maxicastelius.jpg,Maxicastelius.jpg,Encontrada
+Pegarabajo,pegarabajo,/public/images/yokais/pegarabajo.jpg,Pegarabajo.jpg,Encontrada
+Enormarabajo,enormarabajo,/public/images/yokais/enormarabajo.jpg,Enormarabajo.jpg,Encontrada
+Pom,pom,/public/images/yokais/pom.jpg,Pom.jpg,Encontrada
+Eleganfibio,eleganfibio,/public/images/yokais/eleganfibio.jpg,Eleganfibio.jpg,Encontrada
+Tiburon Tiburcio,tiburon-tiburcio,/public/images/yokais/tiburon-tiburcio.jpg,Tiburon_Tiburcio.jpg,Encontrada
+Tiburón Jaquetón,tiburon-jaqueton,/public/images/yokais/tiburon-jaqueton.jpg,Tiburon_Jaqueton.jpg,Encontrada
+Cap. Nublo,cap-nublo,/public/images/yokais/cap-nublo.jpg,Cap_Nublo.jpg,Encontrada
+Bownilda,bownilda,/public/images/yokais/bownilda.jpg,Bownilda.jpg,Encontrada
+Deslumbrella,deslumbrella,/public/images/yokais/deslumbrella.jpg,Deslumbrella.jpg,Encontrada
+Rechinella,rechinella,/public/images/yokais/rechinella.jpg,Rechinella.jpg,Encontrada
+Ningarra,ningarra,/public/images/yokais/ningarra.jpg,Ningarra.jpg,Encontrada
+Habilgarra,habilgarra,/public/images/yokais/habilgarra.jpg,Habilgarra.jpg,Encontrada
+Cantigarra,cantigarra,/public/images/yokais/cantigarra.jpg,Cantigarra.jpg,Encontrada
+Apanleado,apanleado,/public/images/yokais/apanleado.jpg,Apanleado.jpg,Encontrada
+Panduro,panduro,/public/images/yokais/panduro.jpg,Panduro.jpg,Encontrada
+Escanlofrio,escanlofrio,/public/images/yokais/escanlofrio.jpg,Escanlofrio.jpg,Encontrada
+Frihuahua,frihuahua,/public/images/yokais/frihuahua.jpg,Frihuahua.jpg,Encontrada
+Lavadenco,lavadenco,/public/images/yokais/lavadenco.jpg,Lavadenco.jpg,Encontrada
+Superniñato,superninato,/public/images/yokais/superninato.jpg,Superninato.jpg,Encontrada
+Superniñato Rebelde,superninato-rebelde,/public/images/yokais/superninato-rebelde.jpg,Superninato_Rebelde.jpg,Encontrada
+Superniñato Picajoso,superninato-picajoso,/public/images/yokais/superninato-picajoso.jpg,Superninato_Picajoso.jpg,Encontrada
+Picassina,picassina,/public/images/yokais/picassina.jpg,Picassina.jpg,Encontrada
+BellónZ,bellonz,/public/images/yokais/bellonz.jpg,BellonZ.jpg,Encontrada
+Gatallanes,gatallanes,/public/images/yokais/gatallanes.jpg,Gatallanes.jpg,Encontrada
+Limonescente,limonescente,/public/images/yokais/limonescente.jpg,Limonescente.jpg,Encontrada
+Baku,baku,/public/images/yokais/baku.jpg,Baku.jpg,Encontrada
+Somnia,somnia,/public/images/yokais/somnia.jpg,Somnia.jpg,Encontrada
+Pupilo Panja,pupilo-panja,/public/images/yokais/pupilo-panja.jpg,Pupilo_Panja.jpg,Encontrada
+Panja Pro,panja-pro,/public/images/yokais/panja-pro.jpg,Panja_Pro.jpg,Encontrada
+Tomanota,tomanota,/public/images/yokais/tomanota.jpg,Tomanota.jpg,Encontrada
+Zalameria,zalameria,/public/images/yokais/zalameria.jpg,Zalameria.jpg,Encontrada
+Kappandante,kappandante,/public/images/yokais/kappandante.jpg,Kappandante.jpg,Encontrada
+Kappadachín,kappadachin,/public/images/yokais/kappadachin.jpg,Kappadachin.jpg,Encontrada
+Kapparfista,kapparfista,/public/images/yokais/kapparfista.jpg,Kapparfista.jpg,Encontrada
+Komasan,komasan,/public/images/yokais/komasan.jpg,Komasan.jpg,Encontrada
+Komaleon,komaleon,/public/images/yokais/komaleon.jpg,Komaleon.jpg,Encontrada
+Komajiro,komajiro,/public/images/yokais/komajiro.jpg,Komajiro.jpg,Encontrada
+Komatigrado,komatigrado,/public/images/yokais/komatigrado.jpg,Komatigrado.jpg,Encontrada
+Komaestopistas,komaestopistas,/public/images/yokais/komaestopistas.jpg,Komaestopistas.jpg,Encontrada
+Cellisca,cellisca,/public/images/yokais/cellisca.jpg,Cellisca.jpg,Encontrada
+Rapidizo,rapidizo,/public/images/yokais/rapidizo.jpg,Rapidizo.jpg,Encontrada
+Todoapesta,todoapesta,/public/images/yokais/todoapesta.jpg,Todoapesta.jpg,Encontrada
+Pufipatitas,pufipatitas,/public/images/yokais/pufipatitas.jpg,Pufipatitas.jpg,Encontrada
+Pufilindo,pufilindo,/public/images/yokais/pufilindo.jpg,Pufilindo.jpg,Encontrada
+Pufimaloso,pufimaloso,/public/images/yokais/pufimaloso.jpg,Pufimaloso.jpg,Encontrada
+Oso Boco,oso-boco,/public/images/yokais/oso-boco.jpg,Oso_Boco.jpg,Encontrada
+Fristina,fristina,/public/images/yokais/fristina.jpg,Fristina.jpg,Encontrada
+Granizia,granizia,/public/images/yokais/granizia.jpg,Granizia.jpg,Encontrada
+Damona,damona,/public/images/yokais/damona.jpg,Damona.jpg,Encontrada
+Camelia,camelia,/public/images/yokais/camelia.jpg,Camelia.png,Encontrada
+Segadora,segadora,/public/images/yokais/segadora.jpg,Segador.jpg,Encontrada
+Kappafalso,kappafalso,/public/images/yokais/kappafalso.jpg,Kappafalso.jpg,Encontrada
+Chunda y Tachunda,chunda-y-tachunda,/public/images/yokais/chunda-y-tachunda.jpg,Chunda_y_Tachunda.jpg,Encontrada
+Tenguriginal,tenguriginal,/public/images/yokais/tenguriginal.jpg,Tenguriginal.jpg,Encontrada
+Cimbron,cimbron,/public/images/yokais/cimbron.jpg,Cimbron.jpg,Encontrada
+Alcagabana,alcagabana,/public/images/yokais/alcagabana.jpg,Alcagabana.jpg,Encontrada
+Abuzampa,abuzampa,/public/images/yokais/abuzampa.jpg,Abuzampa.jpg,Encontrada
+Gargazampa,gargazampa,/public/images/yokais/gargazampa.jpg,Gargazampa.jpg,Encontrada
+Abuzampa XXL,abuzampa-xxl,/public/images/yokais/abuzampa-xxl.jpg,Abuzampa_XXL.jpg,Encontrada
+Abuflauta,abuflauta,/public/images/yokais/abuflauta.jpg,Abuflauta.jpg,Encontrada
+Níscala,niscala,/public/images/yokais/niscala.jpg,Niscala.jpg,Encontrada
+Curaníscala,curaniscala,/public/images/yokais/curaniscala.jpg,Curaniscala.jpg,Encontrada
+Arenito,arenito,/public/images/yokais/arenito.jpg,Arenito.jpg,Encontrada
+Don Arenito,don-arenito,/public/images/yokais/don-arenito.jpg,Don_Arenito.jpg,Encontrada
+Albornocita Azul,albornocita-azul,/public/images/yokais/albornocita-azul.jpg,Albornocita_Azul.jpg,Encontrada
+Florentina,florentina,/public/images/yokais/florentina.jpg,Florentina.jpg,Encontrada
+Contentallo,contentallo,/public/images/yokais/contentallo.jpg,Contentallo.jpg,Encontrada
+Talloestrella,talloestrella,/public/images/yokais/talloestrella.jpg,Talloestrella.jpg,Encontrada
+Nomeda,nomeda,/public/images/yokais/nomeda.jpg,Nomeda.jpg,Encontrada
+Pauperman,pauperman,/public/images/yokais/pauperman.jpg,Pauperman.jpg,Encontrada
+Nomi,nomi,/public/images/yokais/nomi.jpg,Nomi.jpg,Encontrada
+Gran Nomi,gran-nomi,/public/images/yokais/gran-nomi.jpg,Gran_Nomi.jpg,Encontrada
+Enerposa,enerposa,/public/images/yokais/enerposa.jpg,Enerposa.jpg,Encontrada
+Eneposa,eneposa,/public/images/yokais/eneposa.jpg,Eneposa.jpg,Encontrada
+Mejorposa,mejorposa,/public/images/yokais/mejorposa.jpg,Mejorposa.jpg,Encontrada
+Vivariposa,vivariposa,/public/images/yokais/vivariposa.jpg,Vivariposa.jpg,Encontrada
+Torivinador,torivinador,/public/images/yokais/torivinador.jpg,Torivinador.jpg,Encontrada
+Torivino,torivino,/public/images/yokais/torivino.jpg,Torivino.jpg,Encontrada
+DON-CHAN,don-chan,/public/images/yokais/don-chan.jpg,DON-CHAN.jpg,Encontrada
+Rayito,rayito,/public/images/yokais/rayito.jpg,Rayito.jpg,Encontrada
+Tricotom,tricotom,/public/images/yokais/tricotom.jpg,Tricotom.jpg,Encontrada
+Indeciguro,indeciguro,/public/images/yokais/indeciguro.jpg,Indeciguro.jpg,Encontrada
+Trabalanghi,trabalanghi,/public/images/yokais/trabalanghi.jpg,Trabalanghi.jpg,Encontrada
+Dormidomingo,dormidomingo,/public/images/yokais/dormidomingo.jpg,Dormidomingo.jpg,Encontrada
+Auxiliadora,auxiliadora,/public/images/yokais/auxiliadora.jpg,Auxiliadora.jpg,Encontrada
+Felisonte,felisonte,/public/images/yokais/felisonte.jpg,Felisonte.jpg,Encontrada
+Negatalia,negatalia,/public/images/yokais/negatalia.jpg,Negatalia.jpg,Encontrada
+Reversa,reversa,/public/images/yokais/reversa.jpg,Reversa.jpg,Encontrada
+Esmaltina,esmaltina,/public/images/yokais/esmaltina.jpg,Esmaltina.jpg,Encontrada
+Bolilete,bolilete,/public/images/yokais/bolilete.jpg,Bolilete.jpg,Encontrada
+Sombrillo,sombrillo,/public/images/yokais/sombrillo.jpg,Sombrillo.jpg,Encontrada
+Sombrillogro,sombrillogro,/public/images/yokais/sombrillogro.jpg,Sombrillogro.jpg,Encontrada
+Fantasfitriona,fantasfitriona,/public/images/yokais/fantasfitriona.jpg,Fantasfitriona.jpg,Encontrada
+Papa Rayo,papa-rayo,/public/images/yokais/papa-rayo.jpg,Papa_Rayo.jpg,Encontrada
+Mamá Aura,mama-aura,/public/images/yokais/mama-aura.jpg,Mama_Aura.jpg,Encontrada
+Kyryn,kyryn,/public/images/yokais/kyryn.jpg,Kyryn.jpg,Encontrada
+Sónico,sonico,/public/images/yokais/sonico.jpg,Sonico.jpg,Encontrada
+Noguio,noguio,/public/images/yokais/noguio.jpg,Noguio.jpg,Encontrada
+Angio,angio,/public/images/yokais/angio.jpg,Angio.jpg,Encontrada
+Agujeto,agujeto,/public/images/yokais/agujeto.jpg,Agujeto.jpg,Encontrada
+Acelgo,acelgo,/public/images/yokais/acelgo.jpg,Acelgo.jpg,Encontrada
+Morenaso,morenaso,/public/images/yokais/morenaso.jpg,Morenaso.jpg,Encontrada
+Envelo,envelo,/public/images/yokais/envelo.jpg,Envelo.jpg,Encontrada
+Cafeino,cafeino,/public/images/yokais/cafeino.jpg,Cafeino.jpg,Encontrada
+Trenditopico,trenditopico,/public/images/yokais/trenditopico.jpg,Trenditopico.jpg,Encontrada
+Retuiterio,retuiterio,/public/images/yokais/retuiterio.jpg,Retuiterio.jpg,Encontrada
+Negatisquito,negatisquito,/public/images/yokais/negatisquito.jpg,Negatisquito.jpg,Encontrada
+Deprisquito,deprisquito,/public/images/yokais/deprisquito.jpg,Deprisquito.jpg,Encontrada
+Picorron,picorron,/public/images/yokais/picorron.jpg,Picorron.jpg,Encontrada
+Nomevén,nomeven,/public/images/yokais/nomeven.jpg,Nomeven.jpg,Encontrada
+Nostoy,nostoy,/public/images/yokais/nostoy.jpg,Nostoy.jpg,Encontrada
+Nul,nul,/public/images/yokais/nul.jpg,NuI.jpg,Encontrada
+Panceto,panceto,/public/images/yokais/panceto.jpg,Panceto.jpg,Encontrada
+Suspicioni,suspicioni,/public/images/yokais/suspicioni.jpg,Suspicioni.jpg,Encontrada
+Pataletoni,pataletoni,/public/images/yokais/pataletoni.jpg,Pataletoni.jpg,Encontrada
+Contrarioni,contrarioni,/public/images/yokais/contrarioni.jpg,Contrarioni.jpg,Encontrada
+Keji Do Khan,keji-do-khan,/public/images/yokais/keji-do-khan.jpg,Keji_Do_Khan.jpg,Encontrada
+Gruñon Khan,grunon-khan,/public/images/yokais/grunon-khan.jpg,Grunon_Khan.jpg,Encontrada
+Enciélago,encielago,/public/images/yokais/encielago.jpg,Encielago.jpg,Encontrada
+Enciélago,encielago-2,/public/images/yokais/encielago-2.jpg,Caserielago.jpg,Encontrada
+Ermiciélago,ermicielago,/public/images/yokais/ermicielago.jpg,Ermicielago.jpg,Encontrada
+Prestragón,prestragon,/public/images/yokais/prestragon.jpg,Prestragon.jpg,Encontrada
+Prestragón,prestragon-2,/public/images/yokais/prestragon-2.jpg,Bolsadron.jpg,Encontrada
+Bilgatino,bilgatino,/public/images/yokais/bilgatino.jpg,Bilgatino.jpg,Encontrada
+Su Hackeltad,su-hackeltad,/public/images/yokais/su-hackeltad.jpg,Su_Hackeltad.jpg,Encontrada
+Rataleza,rataleza,/public/images/yokais/rataleza.jpg,Rataleza.jpg,Encontrada
+Timo Gallo,timo-gallo,/public/images/yokais/timo-gallo.jpg,Timo_Gallo.jpg,Encontrada
+Rocky Malrolla,rocky-malrolla,/public/images/yokais/rocky-malrolla.jpg,Rocky_Malrolla.jpg,Encontrada
+Frivolia,frivolia,/public/images/yokais/frivolia.jpg,Frivolia.jpg,Encontrada
+Usapyon,usapyon,/public/images/yokais/usapyon.jpg,Usapyon.jpg,Encontrada
+Negasus,negasus,/public/images/yokais/negasus.jpg,Negasus.jpg,Encontrada
+Pifiasus,pifiasus,/public/images/yokais/pifiasus.jpg,Pifiasus.jpg,Encontrada
+Timidiablo,timidiablo,/public/images/yokais/timidiablo.jpg,Timidiablo.jpg,Encontrada
+Osademonio,osademonio,/public/images/yokais/osademonio.jpg,Osademonio.jpg,Encontrada
+Conde Caries,conde-caries,/public/images/yokais/conde-caries.jpg,Conde_Caries.jpg,Encontrada
+Ojezno,ojezno,/public/images/yokais/ojezno.jpg,Ojezno.jpg,Encontrada
+Joyezno,joyezno,/public/images/yokais/joyezno.jpg,Joyezno.jpg,Encontrada
+Dr. Nihil Listo,dr-nihil-listo,/public/images/yokais/dr-nihil-listo.jpg,Dr_Nihil_Listo.jpg,Encontrada
+Ejemtos,ejemtos,/public/images/yokais/ejemtos.jpg,Ejemtos.jpg,Encontrada
+Goto,goto,/public/images/yokais/goto.jpg,Goto.jpg,Encontrada
+Sirimiri,sirimiri,/public/images/yokais/sirimiri.jpg,Sirimiri.jpg,Encontrada
+Copo,copo,/public/images/yokais/copo.jpg,Copo.jpg,Encontrada
+Ventisquero,ventisquero,/public/images/yokais/ventisquero.jpg,Ventisquero.jpg,Encontrada
+Cartepollo,cartepollo,/public/images/yokais/cartepollo.jpg,Cartepollo.jpg,Encontrada
+Mirlobirlo,mirlobirlo,/public/images/yokais/mirlobirlo.jpg,Mirlobirlo.jpg,Encontrada
+Estréquito,estrequito,/public/images/yokais/estrequito.jpg,Estrequito.jpg,Encontrada
+Vrumbo,vrumbo,/public/images/yokais/vrumbo.jpg,Vrumbo.jpg,Encontrada
+Ayay,ayay,/public/images/yokais/ayay.jpg,Ayay.jpg,Encontrada
+Cantonio,cantonio,/public/images/yokais/cantonio.jpg,Cantonio.jpg,Encontrada
+Multiniche,multiniche,/public/images/yokais/multiniche.jpg,Multiniche.jpg,Encontrada
+Ser Bero,ser-bero,/public/images/yokais/ser-bero.jpg,Ser_Bero.jpg,Encontrada
+Peluco,peluco,/public/images/yokais/peluco.jpg,Peluco.jpg,Encontrada
+Foliculio,foliculio,/public/images/yokais/foliculio.jpg,Foliculio.jpg,Encontrada
+Dabombo,dabombo,/public/images/yokais/dabombo.jpg,Dabombo.jpg,Encontrada
+Los Bomboledores,los-bomboledores,/public/images/yokais/los-bomboledores.jpg,Los_Bomboledores.jpg,Encontrada
+No-No,no-no,/public/images/yokais/no-no.jpg,No-No.jpg,Encontrada
+Amarilia,amarilia,/public/images/yokais/amarilia.jpg,Amarilia.jpg,Encontrada
+Reboca,reboca,/public/images/yokais/reboca.jpg,Reboca.jpg,Encontrada
+Aranecido,aranecido,/public/images/yokais/aranecido.jpg,Aranecido.jpg,Encontrada
+Desaranecido,desaranecido,/public/images/yokais/desaranecido.jpg,Desaranecido.jpg,Encontrada
+Batallitos,batallitos,/public/images/yokais/batallitos.jpg,Batallitos.jpg,Encontrada
+Eskakeo,eskakeo,/public/images/yokais/eskakeo.jpg,Eskakeo.jpg,Encontrada
+Graciosno,graciosno,/public/images/yokais/graciosno.jpg,Graciosno.jpg,Encontrada
+Sololo,sololo,/public/images/yokais/sololo.jpg,Sololo.jpg,Encontrada
+Pandalón,pandalon,/public/images/yokais/pandalon.jpg,Pandalon.jpg,Encontrada
+Cuesco,cuesco,/public/images/yokais/cuesco.jpg,Cuesco.jpg,Encontrada
+Péditum,peditum,/public/images/yokais/peditum.jpg,Peditum.jpg,Encontrada
+Lena,lena,/public/images/yokais/lena.jpg,Lena.jpg,Encontrada
+Malena,malena,/public/images/yokais/malena.jpg,Malena.jpg,Encontrada
+Arruñona,arrunona,/public/images/yokais/arrunona.jpg,Arrunona.jpg,Encontrada
+Belladona,belladona,/public/images/yokais/belladona.jpg,Belladona.jpg,Encontrada
+Condespótico,condespotico,/public/images/yokais/condespotico.jpg,Condespotico.jpg,Encontrada
+Flequipilante,flequipilante,/public/images/yokais/flequipilante.jpg,Flequipilante.jpg,Encontrada
+Insomna,insomna,/public/images/yokais/insomna.jpg,Insomna.jpg,Encontrada
+Morfea,morfea,/public/images/yokais/morfea.jpg,Morfea.jpg,Encontrada
+Origenio,origenio,/public/images/yokais/origenio.jpg,Origenio.jpg,Encontrada
+Fulgurilla,fulgurilla,/public/images/yokais/fulgurilla.jpg,Fulgurilla.jpg,Encontrada

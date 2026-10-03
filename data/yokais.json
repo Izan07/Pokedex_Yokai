@@ -1,0 +1,4360 @@
+{
+  "yokais": [
+    {
+      "nombre": "Robin Ful",
+      "tipo1": "Planta",
+      "tipo2": "Planta",
+      "ruta_img": "Robin_Ful.jpg",
+      "rareza": "Clásicos",
+      "caracteristicas": {
+        "PS": 0,
+        "Ataque": 0,
+        "Defensa": 0,
+        "Ataque Especial": 0,
+        "Defensa Especial": 0,
+        "Velocidad": 0
+      }
+    },
+    {
+      "nombre": "Tornalmohado",
+      "tipo1": "Lucha",
+      "tipo2": "Lucha",
+      "ruta_img": "Tornalmohado.jpg",
+      "caracteristicas": {
+        "PS": 0,
+        "Ataque": 0,
+        "Defensa": 0,
+        "Ataque Especial": 0,
+        "Defensa Especial": 0,
+        "Velocidad": 0
+      }
+    },
+    {
+      "nombre": "Alcaldero",
+      "tipo1": "Normal",
+      "tipo2": "Normal",
+      "ruta_img": "Alcaldero.png",
+      "caracteristicas": {
+        "PS": 0,
+        "Ataque": 0,
+        "Defensa": 0,
+        "Ataque Especial": 0,
+        "Defensa Especial": 0,
+        "Velocidad": 0
+      }
+    },
+    {
+      "nombre": "Sinná",
+      "tipo1": "Normal",
+      "tipo2": "Lucha",
+      "ruta_img": "Sinna.png",
+      "rareza": "Leyenda Mística",
+      "caracteristicas": {
+        "PS": 0,
+        "Ataque": 0,
+        "Defensa": 0,
+        "Ataque Especial": 0,
+        "Defensa Especial": 0,
+        "Velocidad": 0
+      }
+    },
+    {
+      "nombre": "Sinnareno",
+      "tipo1": "Normal",
+      "tipo2": "Tierra",
+      "ruta_img": "Sinnareno.jpg",
+      "caracteristicas": {
+        "PS": 0,
+        "Ataque": 0,
+        "Defensa": 0,
+        "Ataque Especial": 0,
+        "Defensa Especial": 0,
+        "Velocidad": 0
+      }
+    },
+    {
+      "nombre": "Katano",
+      "tipo1": "Acero",
+      "tipo2": "Acero",
+      "ruta_img": "Katano.png",
+      "caracteristicas": {
+        "PS": 0,
+        "Ataque": 0,
+        "Defensa": 0,
+        "Ataque Especial": 0,
+        "Defensa Especial": 0,
+        "Velocidad": 0
+      }
+    },
+    {
+      "nombre": "Katanai",
+      "tipo1": "Acero",
+      "tipo2": "Acero",
+      "ruta_img": "Katanai.png",
+      "caracteristicas": {
+        "PS": 0,
+        "Ataque": 0,
+        "Defensa": 0,
+        "Ataque Especial": 0,
+        "Defensa Especial": 0,
+        "Velocidad": 0
+      }
+    },
+    {
+      "nombre": "Katakroken",
+      "tipo1": "Acero",
+      "tipo2": "Hielo",
+      "ruta_img": "Katakroken.jpg",
+      "caracteristicas": {
+        "PS": 0,
+        "Ataque": 0,
+        "Defensa": 0,
+        "Ataque Especial": 0,
+        "Defensa Especial": 0,
+        "Velocidad": 0
+      }
+    },
+    {
+      "nombre": "Milimpiano",
+      "tipo1": "Agua",
+      "tipo2": "Agua",
+      "ruta_img": "Milimpiano.png",
+      "caracteristicas": {
+        "PS": 0,
+        "Ataque": 0,
+        "Defensa": 0,
+        "Ataque Especial": 0,
+        "Defensa Especial": 0,
+        "Velocidad": 0
+      }
+    },
+    {
+      "nombre": "Samulimpio",
+      "tipo1": "Agua",
+      "tipo2": "Lucha",
+      "ruta_img": "Samulimpio.png",
+      "caracteristicas": {
+        "PS": 0,
+        "Ataque": 0,
+        "Defensa": 0,
+        "Ataque Especial": 0,
+        "Defensa Especial": 0,
+        "Velocidad": 0
+      }
+    },
+    {
+      "nombre": "Dormileon",
+      "tipo1": "Lucha",
+      "tipo2": "Lucha",
+      "ruta_img": "Dormileon.png",
+      "caracteristicas": {
+        "PS": 0,
+        "Ataque": 0,
+        "Defensa": 0,
+        "Ataque Especial": 0,
+        "Defensa Especial": 0,
+        "Velocidad": 0
+      }
+    },
+    {
+      "nombre": "Leon Alfa",
+      "tipo1": "Lucha",
+      "tipo2": "Lucha",
+      "ruta_img": "Leon_Alfa.png",
+      "caracteristicas": {
+        "PS": 0,
+        "Ataque": 0,
+        "Defensa": 0,
+        "Ataque Especial": 0,
+        "Defensa Especial": 0,
+        "Velocidad": 0
+      }
+    },
+    {
+      "nombre": "Pataleto",
+      "tipo1": "Lucha",
+      "tipo2": "Lucha",
+      "ruta_img": "Pataleto.png",
+      "caracteristicas": {
+        "PS": 0,
+        "Ataque": 0,
+        "Defensa": 0,
+        "Ataque Especial": 0,
+        "Defensa Especial": 0,
+        "Velocidad": 0
+      }
+    },
+    {
+      "nombre": "Osfurio",
+      "tipo1": "Lucha",
+      "tipo2": "Fuego",
+      "ruta_img": "Osfurio.jpg",
+      "caracteristicas": {
+        "PS": 0,
+        "Ataque": 0,
+        "Defensa": 0,
+        "Ataque Especial": 0,
+        "Defensa Especial": 0,
+        "Velocidad": 0
+      }
+    },
+    {
+      "nombre": "Sacoco",
+      "tipo1": "Lucha",
+      "tipo2": "Agua",
+      "ruta_img": "Sacoco.png",
+      "caracteristicas": {
+        "PS": 0,
+        "Ataque": 0,
+        "Defensa": 0,
+        "Ataque Especial": 0,
+        "Defensa Especial": 0,
+        "Velocidad": 0
+      }
+    },
+    {
+      "nombre": "Gran coco",
+      "tipo1": "Lucha",
+      "tipo2": "Fantasma",
+      "ruta_img": "Gran_coco.png",
+      "caracteristicas": {
+        "PS": 0,
+        "Ataque": 0,
+        "Defensa": 0,
+        "Ataque Especial": 0,
+        "Defensa Especial": 0,
+        "Velocidad": 0
+      }
+    },
+    {
+      "nombre": "Mochimacho",
+      "tipo1": "Lucha",
+      "tipo2": "Lucha",
+      "ruta_img": "Mochimacho.png",
+      "caracteristicas": {
+        "PS": 0,
+        "Ataque": 0,
+        "Defensa": 0,
+        "Ataque Especial": 0,
+        "Defensa Especial": 0,
+        "Velocidad": 0
+      }
+    },
+    {
+      "nombre": "Bola Blanda",
+      "tipo1": "Normal",
+      "tipo2": "Normal",
+      "ruta_img": "Bola_Blanda.png",
+      "caracteristicas": {
+        "PS": 0,
+        "Ataque": 0,
+        "Defensa": 0,
+        "Ataque Especial": 0,
+        "Defensa Especial": 0,
+        "Velocidad": 0
+      }
+    },
+    {
+      "nombre": "Bateadós",
+      "tipo1": "Normal",
+      "tipo2": "Normal",
+      "ruta_img": "Bateados.png",
+      "caracteristicas": {
+        "PS": 0,
+        "Ataque": 0,
+        "Defensa": 0,
+        "Ataque Especial": 0,
+        "Defensa Especial": 0,
+        "Velocidad": 0
+      }
+    },
+    {
+      "nombre": "Puergazan",
+      "tipo1": "Normal",
+      "tipo2": "Normal",
+      "ruta_img": "Puergazan.jpg",
+      "caracteristicas": {
+        "PS": 0,
+        "Ataque": 0,
+        "Defensa": 0,
+        "Ataque Especial": 0,
+        "Defensa Especial": 0,
+        "Velocidad": 0
+      }
+    },
+    {
+      "nombre": "Torreznio",
+      "tipo1": "Lucha",
+      "tipo2": "Lucha",
+      "ruta_img": "Torreznio.jpg",
+      "caracteristicas": {
+        "PS": 0,
+        "Ataque": 0,
+        "Defensa": 0,
+        "Ataque Especial": 0,
+        "Defensa Especial": 0,
+        "Velocidad": 0
+      }
+    },
+    {
+      "nombre": "Samuranguila",
+      "tipo1": "Agua",
+      "tipo2": "Eléctrico",
+      "ruta_img": "Samuranguila.jpg",
+      "caracteristicas": {
+        "PS": 0,
+        "Ataque": 0,
+        "Defensa": 0,
+        "Ataque Especial": 0,
+        "Defensa Especial": 0,
+        "Velocidad": 0
+      }
+    },
+    {
+      "nombre": "Anguilocio",
+      "tipo1": "Agua",
+      "tipo2": "Eléctrico",
+      "ruta_img": "Anguilocio.jpg",
+      "caracteristicas": {
+        "PS": 0,
+        "Ataque": 0,
+        "Defensa": 0,
+        "Ataque Especial": 0,
+        "Defensa Especial": 0,
+        "Velocidad": 0
+      }
+    },
+    {
+      "nombre": "Yelmandante",
+      "tipo1": "Fantasma",
+      "tipo2": "Fantasma",
+      "ruta_img": "Yelmandante.png",
+      "caracteristicas": {
+        "PS": 0,
+        "Ataque": 0,
+        "Defensa": 0,
+        "Ataque Especial": 0,
+        "Defensa Especial": 0,
+        "Velocidad": 0
+      }
+    },
+    {
+      "nombre": "Juntollero",
+      "tipo1": "Lucha",
+      "tipo2": "Fantasma",
+      "ruta_img": "Juntollero.png",
+      "caracteristicas": {
+        "PS": 0,
+        "Ataque": 0,
+        "Defensa": 0,
+        "Ataque Especial": 0,
+        "Defensa Especial": 0,
+        "Velocidad": 0
+      }
+    },
+    {
+      "nombre": "Genedaver",
+      "tipo1": "Fantasma",
+      "tipo2": "Fantasma",
+      "ruta_img": "Genedaver.jpg",
+      "caracteristicas": {
+        "PS": 0,
+        "Ataque": 0,
+        "Defensa": 0,
+        "Ataque Especial": 0,
+        "Defensa Especial": 0,
+        "Velocidad": 0
+      }
+    },
+    {
+      "nombre": "Cortarroz",
+      "tipo1": "Lucha",
+      "tipo2": "Lucha",
+      "ruta_img": "Cortarroz.png",
+      "caracteristicas": {
+        "PS": 0,
+        "Ataque": 0,
+        "Defensa": 0,
+        "Ataque Especial": 0,
+        "Defensa Especial": 0,
+        "Velocidad": 0
+      }
+    },
+    {
+      "nombre": "Socarrat",
+      "tipo1": "Lucha",
+      "tipo2": "Fuego",
+      "ruta_img": "Socarrat.png",
+      "caracteristicas": {
+        "PS": 0,
+        "Ataque": 0,
+        "Defensa": 0,
+        "Ataque Especial": 0,
+        "Defensa Especial": 0,
+        "Velocidad": 0
+      }
+    },
+    {
+      "nombre": "Chupatinas",
+      "tipo1": "Veneno",
+      "tipo2": "Veneno",
+      "ruta_img": "Chupatinas.png",
+      "caracteristicas": {
+        "PS": 0,
+        "Ataque": 0,
+        "Defensa": 0,
+        "Ataque Especial": 0,
+        "Defensa Especial": 0,
+        "Velocidad": 0
+      }
+    },
+    {
+      "nombre": "Chupapremios",
+      "tipo1": "Veneno",
+      "tipo2": "Veneno",
+      "ruta_img": "Chupapremios.png",
+      "caracteristicas": {
+        "PS": 0,
+        "Ataque": 0,
+        "Defensa": 0,
+        "Ataque Especial": 0,
+        "Defensa Especial": 0,
+        "Velocidad": 0
+      }
+    },
+    {
+      "nombre": "Guerrero Guey",
+      "tipo1": "Lucha",
+      "tipo2": "Lucha",
+      "ruta_img": "Guerrero_Guey.png",
+      "caracteristicas": {
+        "PS": 0,
+        "Ataque": 0,
+        "Defensa": 0,
+        "Ataque Especial": 0,
+        "Defensa Especial": 0,
+        "Velocidad": 0
+      }
+    },
+    {
+      "nombre": "Huracan Guey",
+      "tipo1": "Lucha",
+      "tipo2": "Lucha",
+      "ruta_img": "Huracan_Guey.png",
+      "caracteristicas": {
+        "PS": 0,
+        "Ataque": 0,
+        "Defensa": 0,
+        "Ataque Especial": 0,
+        "Defensa Especial": 0,
+        "Velocidad": 0
+      }
+    },
+    {
+      "nombre": "Atierrador",
+      "tipo1": "Tierra",
+      "tipo2": "Tierra",
+      "ruta_img": "Atierrador.png",
+      "caracteristicas": {
+        "PS": 0,
+        "Ataque": 0,
+        "Defensa": 0,
+        "Ataque Especial": 0,
+        "Defensa Especial": 0,
+        "Velocidad": 0
+      }
+    },
+    {
+      "nombre": "Piopio",
+      "tipo1": "Lucha",
+      "tipo2": "Volador",
+      "ruta_img": "Piopio.jpg",
+      "caracteristicas": {
+        "PS": 0,
+        "Ataque": 0,
+        "Defensa": 0,
+        "Ataque Especial": 0,
+        "Defensa Especial": 0,
+        "Velocidad": 0
+      }
+    },
+    {
+      "nombre": "Benkei",
+      "tipo1": "Acero",
+      "tipo2": "Acero",
+      "ruta_img": "Benkei.png",
+      "caracteristicas": {
+        "PS": 0,
+        "Ataque": 0,
+        "Defensa": 0,
+        "Ataque Especial": 0,
+        "Defensa Especial": 0,
+        "Velocidad": 0
+      }
+    },
+    {
+      "nombre": "Flamileon",
+      "tipo1": "Fuego",
+      "tipo2": "Fuego",
+      "ruta_img": "Flamileon.png",
+      "caracteristicas": {
+        "PS": 0,
+        "Ataque": 0,
+        "Defensa": 0,
+        "Ataque Especial": 0,
+        "Defensa Especial": 0,
+        "Velocidad": 0
+      }
+    },
+    {
+      "nombre": "Tembloleon",
+      "tipo1": "Fuego",
+      "tipo2": "Siniestro",
+      "ruta_img": "Tembloleon.jpg",
+      "caracteristicas": {
+        "PS": 0,
+        "Ataque": 0,
+        "Defensa": 0,
+        "Ataque Especial": 0,
+        "Defensa Especial": 0,
+        "Velocidad": 0
+      }
+    },
+    {
+      "nombre": "Sirleon",
+      "tipo1": "Fuego",
+      "tipo2": "Hielo",
+      "ruta_img": "Sirleon.jpg",
+      "caracteristicas": {
+        "PS": 0,
+        "Ataque": 0,
+        "Defensa": 0,
+        "Ataque Especial": 0,
+        "Defensa Especial": 0,
+        "Velocidad": 0
+      }
+    },
+    {
+      "nombre": "Ludorai",
+      "tipo1": "Lucha",
+      "tipo2": "Lucha",
+      "ruta_img": "Ludorai.png",
+      "caracteristicas": {
+        "PS": 0,
+        "Ataque": 0,
+        "Defensa": 0,
+        "Ataque Especial": 0,
+        "Defensa Especial": 0,
+        "Velocidad": 0
+      }
+    },
+    {
+      "nombre": "Lustre",
+      "tipo1": "Lucha",
+      "tipo2": "Lucha",
+      "ruta_img": "Lustre.png",
+      "caracteristicas": {
+        "PS": 0,
+        "Ataque": 0,
+        "Defensa": 0,
+        "Ataque Especial": 0,
+        "Defensa Especial": 0,
+        "Velocidad": 0
+      }
+    },
+    {
+      "nombre": "Dortre",
+      "tipo1": "Lucha",
+      "tipo2": "Fantasma",
+      "ruta_img": "Dortre.png",
+      "caracteristicas": {
+        "PS": 0,
+        "Ataque": 0,
+        "Defensa": 0,
+        "Ataque Especial": 0,
+        "Defensa Especial": 0,
+        "Velocidad": 0
+      }
+    },
+    {
+      "nombre": "Dortre",
+      "tipo1": "Lucha",
+      "tipo2": "Eléctrico",
+      "ruta_img": "Dortre.jpg",
+      "caracteristicas": {
+        "PS": 0,
+        "Ataque": 0,
+        "Defensa": 0,
+        "Ataque Especial": 0,
+        "Defensa Especial": 0,
+        "Velocidad": 0
+      }
+    },
+    {
+      "nombre": "Hovernyan",
+      "tipo1": "Lucha",
+      "tipo2": "Lucha",
+      "ruta_img": "Hovernyan.png",
+      "caracteristicas": {
+        "PS": 0,
+        "Ataque": 0,
+        "Defensa": 0,
+        "Ataque Especial": 0,
+        "Defensa Especial": 0,
+        "Velocidad": 0
+      }
+    },
+    {
+      "nombre": "Ultra N",
+      "tipo1": "Siniestro",
+      "tipo2": "Siniestro",
+      "ruta_img": "Ultra_N.jpg",
+      "caracteristicas": {
+        "PS": 0,
+        "Ataque": 0,
+        "Defensa": 0,
+        "Ataque Especial": 0,
+        "Defensa Especial": 0,
+        "Velocidad": 0
+      }
+    },
+    {
+      "nombre": "Ultra K",
+      "tipo1": "Hada",
+      "tipo2": "Hada",
+      "ruta_img": "Ultra_K.jpg",
+      "caracteristicas": {
+        "PS": 0,
+        "Ataque": 0,
+        "Defensa": 0,
+        "Ataque Especial": 0,
+        "Defensa Especial": 0,
+        "Velocidad": 0
+      }
+    },
+    {
+      "nombre": "Globonauta",
+      "tipo1": "Volador",
+      "tipo2": "Volador",
+      "ruta_img": "Globonauta.png",
+      "caracteristicas": {
+        "PS": 0,
+        "Ataque": 0,
+        "Defensa": 0,
+        "Ataque Especial": 0,
+        "Defensa Especial": 0,
+        "Velocidad": 0
+      }
+    },
+    {
+      "nombre": "Lucharabajo",
+      "tipo1": "Bicho",
+      "tipo2": "Bicho",
+      "ruta_img": "Lucharabajo.png",
+      "caracteristicas": {
+        "PS": 0,
+        "Ataque": 0,
+        "Defensa": 0,
+        "Ataque Especial": 0,
+        "Defensa Especial": 0,
+        "Velocidad": 0
+      }
+    },
+    {
+      "nombre": "Camperabajo",
+      "tipo1": "Bicho",
+      "tipo2": "Lucha",
+      "ruta_img": "Camperabajo.png",
+      "caracteristicas": {
+        "PS": 0,
+        "Ataque": 0,
+        "Defensa": 0,
+        "Ataque Especial": 0,
+        "Defensa Especial": 0,
+        "Velocidad": 0
+      }
+    },
+    {
+      "nombre": "Chafarabajo",
+      "tipo1": "Bicho",
+      "tipo2": "Dragón",
+      "ruta_img": "Chafarabajo.png",
+      "caracteristicas": {
+        "PS": 0,
+        "Ataque": 0,
+        "Defensa": 0,
+        "Ataque Especial": 0,
+        "Defensa Especial": 0,
+        "Velocidad": 0
+      }
+    },
+    {
+      "nombre": "Capi-Cachas",
+      "tipo1": "Lucha",
+      "tipo2": "Lucha",
+      "ruta_img": "Capi-Cachas.png",
+      "caracteristicas": {
+        "PS": 0,
+        "Ataque": 0,
+        "Defensa": 0,
+        "Ataque Especial": 0,
+        "Defensa Especial": 0,
+        "Velocidad": 0
+      }
+    },
+    {
+      "nombre": "Devoramonios",
+      "tipo1": "Lucha",
+      "tipo2": "Lucha",
+      "ruta_img": "Devoramonios.png",
+      "caracteristicas": {
+        "PS": 0,
+        "Ataque": 0,
+        "Defensa": 0,
+        "Ataque Especial": 0,
+        "Defensa Especial": 0,
+        "Velocidad": 0
+      }
+    },
+    {
+      "nombre": "Devoralmas",
+      "tipo1": "Fantasma",
+      "tipo2": "Siniestro",
+      "ruta_img": "Devoralmas.jpg",
+      "caracteristicas": {
+        "PS": 0,
+        "Ataque": 0,
+        "Defensa": 0,
+        "Ataque Especial": 0,
+        "Defensa Especial": 0,
+        "Velocidad": 0
+      }
+    },
+    {
+      "nombre": "Shurikenny",
+      "tipo1": "Siniestro",
+      "tipo2": "Siniestro",
+      "ruta_img": "Shurikenny.png",
+      "caracteristicas": {
+        "PS": 0,
+        "Ataque": 0,
+        "Defensa": 0,
+        "Ataque Especial": 0,
+        "Defensa Especial": 0,
+        "Velocidad": 0
+      }
+    },
+    {
+      "nombre": "Fracaguas",
+      "tipo1": "Normal",
+      "tipo2": "Volador",
+      "ruta_img": "Fracaguas.png",
+      "caracteristicas": {
+        "PS": 0,
+        "Ataque": 0,
+        "Defensa": 0,
+        "Ataque Especial": 0,
+        "Defensa Especial": 0,
+        "Velocidad": 0
+      }
+    },
+    {
+      "nombre": "Cremallero",
+      "tipo1": "Eléctrico",
+      "tipo2": "Eléctrico",
+      "ruta_img": "Cremallero.jpg",
+      "caracteristicas": {
+        "PS": 0,
+        "Ataque": 0,
+        "Defensa": 0,
+        "Ataque Especial": 0,
+        "Defensa Especial": 0,
+        "Velocidad": 0
+      }
+    },
+    {
+      "nombre": "Mokopavo",
+      "tipo1": "Agua",
+      "tipo2": "Agua",
+      "ruta_img": "Mokopavo.png",
+      "caracteristicas": {
+        "PS": 0,
+        "Ataque": 0,
+        "Defensa": 0,
+        "Ataque Especial": 0,
+        "Defensa Especial": 0,
+        "Velocidad": 0
+      }
+    },
+    {
+      "nombre": "Yopaso",
+      "tipo1": "Psíquico",
+      "tipo2": "Psíquico",
+      "ruta_img": "Yopaso.png",
+      "caracteristicas": {
+        "PS": 0,
+        "Ataque": 0,
+        "Defensa": 0,
+        "Ataque Especial": 0,
+        "Defensa Especial": 0,
+        "Velocidad": 0
+      }
+    },
+    {
+      "nombre": "Puf",
+      "tipo1": "Psíquico",
+      "tipo2": "Psíquico",
+      "ruta_img": "Puf.png",
+      "caracteristicas": {
+        "PS": 0,
+        "Ataque": 0,
+        "Defensa": 0,
+        "Ataque Especial": 0,
+        "Defensa Especial": 0,
+        "Velocidad": 0
+      }
+    },
+    {
+      "nombre": "Komemo",
+      "tipo1": "Psíquico",
+      "tipo2": "Psíquico",
+      "ruta_img": "Komemo.png",
+      "caracteristicas": {
+        "PS": 0,
+        "Ataque": 0,
+        "Defensa": 0,
+        "Ataque Especial": 0,
+        "Defensa Especial": 0,
+        "Velocidad": 0
+      }
+    },
+    {
+      "nombre": "Komecasa",
+      "tipo1": "Psíquico",
+      "tipo2": "Psíquico",
+      "ruta_img": "Komecasa.png",
+      "caracteristicas": {
+        "PS": 0,
+        "Ataque": 0,
+        "Defensa": 0,
+        "Ataque Especial": 0,
+        "Defensa Especial": 0,
+        "Velocidad": 0
+      }
+    },
+    {
+      "nombre": "Mochueloqué",
+      "tipo1": "Volador",
+      "tipo2": "Volador",
+      "ruta_img": "Mochueloque.png",
+      "caracteristicas": {
+        "PS": 0,
+        "Ataque": 0,
+        "Defensa": 0,
+        "Ataque Especial": 0,
+        "Defensa Especial": 0,
+        "Velocidad": 0
+      }
+    },
+    {
+      "nombre": "Todoídos",
+      "tipo1": "Volador",
+      "tipo2": "Psíquico",
+      "ruta_img": "Todoidos.png",
+      "caracteristicas": {
+        "PS": 0,
+        "Ataque": 0,
+        "Defensa": 0,
+        "Ataque Especial": 0,
+        "Defensa Especial": 0,
+        "Velocidad": 0
+      }
+    },
+    {
+      "nombre": "Preguntio",
+      "tipo1": "Fantasma",
+      "tipo2": "Fantasma",
+      "ruta_img": "Preguntio.png",
+      "caracteristicas": {
+        "PS": 0,
+        "Ataque": 0,
+        "Defensa": 0,
+        "Ataque Especial": 0,
+        "Defensa Especial": 0,
+        "Velocidad": 0
+      }
+    },
+    {
+      "nombre": "Respondio",
+      "tipo1": "Fantasma",
+      "tipo2": "Psíquico",
+      "ruta_img": "Respondio.png",
+      "caracteristicas": {
+        "PS": 0,
+        "Ataque": 0,
+        "Defensa": 0,
+        "Ataque Especial": 0,
+        "Defensa Especial": 0,
+        "Velocidad": 0
+      }
+    },
+    {
+      "nombre": "Cascarito",
+      "tipo1": "Normal",
+      "tipo2": "Acero",
+      "ruta_img": "Cascarito.jpg",
+      "caracteristicas": {
+        "PS": 0,
+        "Ataque": 0,
+        "Defensa": 0,
+        "Ataque Especial": 0,
+        "Defensa Especial": 0,
+        "Velocidad": 0
+      }
+    },
+    {
+      "nombre": "Algazara",
+      "tipo1": "Siniestro",
+      "tipo2": "Siniestro",
+      "ruta_img": "Algazara.png",
+      "caracteristicas": {
+        "PS": 0,
+        "Ataque": 0,
+        "Defensa": 0,
+        "Ataque Especial": 0,
+        "Defensa Especial": 0,
+        "Velocidad": 0
+      }
+    },
+    {
+      "nombre": "Cotilleja",
+      "tipo1": "Normal",
+      "tipo2": "Normal",
+      "ruta_img": "Cotilleja.png",
+      "caracteristicas": {
+        "PS": 0,
+        "Ataque": 0,
+        "Defensa": 0,
+        "Ataque Especial": 0,
+        "Defensa Especial": 0,
+        "Velocidad": 0
+      }
+    },
+    {
+      "nombre": "Marulleja",
+      "tipo1": "Normal",
+      "tipo2": "Normal",
+      "ruta_img": "Marulleja.png",
+      "caracteristicas": {
+        "PS": 0,
+        "Ataque": 0,
+        "Defensa": 0,
+        "Ataque Especial": 0,
+        "Defensa Especial": 0,
+        "Velocidad": 0
+      }
+    },
+    {
+      "nombre": "Cupistolo",
+      "tipo1": "Hada",
+      "tipo2": "Hada",
+      "ruta_img": "Cupistolo.png",
+      "caracteristicas": {
+        "PS": 0,
+        "Ataque": 0,
+        "Defensa": 0,
+        "Ataque Especial": 0,
+        "Defensa Especial": 0,
+        "Velocidad": 0
+      }
+    },
+    {
+      "nombre": "Casanovo",
+      "tipo1": "Hada",
+      "tipo2": "Hada",
+      "ruta_img": "Casanovo.png",
+      "caracteristicas": {
+        "PS": 0,
+        "Ataque": 0,
+        "Defensa": 0,
+        "Ataque Especial": 0,
+        "Defensa Especial": 0,
+        "Velocidad": 0
+      }
+    },
+    {
+      "nombre": "Casanono",
+      "tipo1": "Hada",
+      "tipo2": "Veneno",
+      "ruta_img": "Casanono.png",
+      "caracteristicas": {
+        "PS": 0,
+        "Ataque": 0,
+        "Defensa": 0,
+        "Ataque Especial": 0,
+        "Defensa Especial": 0,
+        "Velocidad": 0
+      }
+    },
+    {
+      "nombre": "Losiento",
+      "tipo1": "Fantasma",
+      "tipo2": "Fantasma",
+      "ruta_img": "Losiento.png",
+      "caracteristicas": {
+        "PS": 0,
+        "Ataque": 0,
+        "Defensa": 0,
+        "Ataque Especial": 0,
+        "Defensa Especial": 0,
+        "Velocidad": 0
+      }
+    },
+    {
+      "nombre": "Domiplof",
+      "tipo1": "Fantasma",
+      "tipo2": "Fantasma",
+      "ruta_img": "Domiplof.png",
+      "caracteristicas": {
+        "PS": 0,
+        "Ataque": 0,
+        "Defensa": 0,
+        "Ataque Especial": 0,
+        "Defensa Especial": 0,
+        "Velocidad": 0
+      }
+    },
+    {
+      "nombre": "Niebli",
+      "tipo1": "Volador",
+      "tipo2": "Volador",
+      "ruta_img": "Niebli.png",
+      "caracteristicas": {
+        "PS": 0,
+        "Ataque": 0,
+        "Defensa": 0,
+        "Ataque Especial": 0,
+        "Defensa Especial": 0,
+        "Velocidad": 0
+      }
+    },
+    {
+      "nombre": "Nebula",
+      "tipo1": "Volador",
+      "tipo2": "Volador",
+      "ruta_img": "Nebula.png",
+      "caracteristicas": {
+        "PS": 0,
+        "Ataque": 0,
+        "Defensa": 0,
+        "Ataque Especial": 0,
+        "Defensa Especial": 0,
+        "Velocidad": 0
+      }
+    },
+    {
+      "nombre": "Ondivoro",
+      "tipo1": "Eléctrico",
+      "tipo2": "Eléctrico",
+      "ruta_img": "Ondivoro.png",
+      "caracteristicas": {
+        "PS": 0,
+        "Ataque": 0,
+        "Defensa": 0,
+        "Ataque Especial": 0,
+        "Defensa Especial": 0,
+        "Velocidad": 0
+      }
+    },
+    {
+      "nombre": "Coberturo",
+      "tipo1": "Eléctrico",
+      "tipo2": "Eléctrico",
+      "ruta_img": "Coberturo.png",
+      "caracteristicas": {
+        "PS": 0,
+        "Ataque": 0,
+        "Defensa": 0,
+        "Ataque Especial": 0,
+        "Defensa Especial": 0,
+        "Velocidad": 0
+      }
+    },
+    {
+      "nombre": "Normalino",
+      "tipo1": "Normal",
+      "tipo2": "Normal",
+      "ruta_img": "Normalino.jpg",
+      "caracteristicas": {
+        "PS": 0,
+        "Ataque": 0,
+        "Defensa": 0,
+        "Ataque Especial": 0,
+        "Defensa Especial": 0,
+        "Velocidad": 0
+      }
+    },
+    {
+      "nombre": "Iluho",
+      "tipo1": "Psíquico",
+      "tipo2": "Psíquico",
+      "ruta_img": "Iluho.jpg",
+      "caracteristicas": {
+        "PS": 0,
+        "Ataque": 0,
+        "Defensa": 0,
+        "Ataque Especial": 0,
+        "Defensa Especial": 0,
+        "Velocidad": 0
+      }
+    },
+    {
+      "nombre": "Eluho",
+      "tipo1": "Psíquico",
+      "tipo2": "Veneno",
+      "ruta_img": "Eluho.jpg",
+      "caracteristicas": {
+        "PS": 0,
+        "Ataque": 0,
+        "Defensa": 0,
+        "Ataque Especial": 0,
+        "Defensa Especial": 0,
+        "Velocidad": 0
+      }
+    },
+    {
+      "nombre": "Ubiuho",
+      "tipo1": "Psíquico",
+      "tipo2": "Planta",
+      "ruta_img": "Ubiuho.jpg",
+      "caracteristicas": {
+        "PS": 0,
+        "Ataque": 0,
+        "Defensa": 0,
+        "Ataque Especial": 0,
+        "Defensa Especial": 0,
+        "Velocidad": 0
+      }
+    },
+    {
+      "nombre": "Trilepata",
+      "tipo1": "Psíquico",
+      "tipo2": "Psíquico",
+      "ruta_img": "Trilepata.png",
+      "caracteristicas": {
+        "PS": 0,
+        "Ataque": 0,
+        "Defensa": 0,
+        "Ataque Especial": 0,
+        "Defensa Especial": 0,
+        "Velocidad": 0
+      }
+    },
+    {
+      "nombre": "Tetrariosa",
+      "tipo1": "Psíquico",
+      "tipo2": "Psíquico",
+      "ruta_img": "Tetrariosa.png",
+      "caracteristicas": {
+        "PS": 0,
+        "Ataque": 0,
+        "Defensa": 0,
+        "Ataque Especial": 0,
+        "Defensa Especial": 0,
+        "Velocidad": 0
+      }
+    },
+    {
+      "nombre": "Telespejo",
+      "tipo1": "Fantasma",
+      "tipo2": "Fantasma",
+      "ruta_img": "Telespejo.png",
+      "caracteristicas": {
+        "PS": 0,
+        "Ataque": 0,
+        "Defensa": 0,
+        "Ataque Especial": 0,
+        "Defensa Especial": 0,
+        "Velocidad": 0
+      }
+    },
+    {
+      "nombre": "Trielespejo",
+      "tipo1": "Fantasma",
+      "tipo2": "Fantasma",
+      "ruta_img": "Trielespejo.png",
+      "caracteristicas": {
+        "PS": 0,
+        "Ataque": 0,
+        "Defensa": 0,
+        "Ataque Especial": 0,
+        "Defensa Especial": 0,
+        "Velocidad": 0
+      }
+    },
+    {
+      "nombre": "Ambrosio",
+      "tipo1": "Fantasma",
+      "tipo2": "Fantasma",
+      "ruta_img": "Ambrosio.png",
+      "caracteristicas": {
+        "PS": 0,
+        "Ataque": 0,
+        "Defensa": 0,
+        "Ataque Especial": 0,
+        "Defensa Especial": 0,
+        "Velocidad": 0
+      }
+    },
+    {
+      "nombre": "Profesor Avertijo",
+      "tipo1": "Normal",
+      "tipo2": "Volador",
+      "ruta_img": "Profesor_Avertijo.png",
+      "caracteristicas": {
+        "PS": 0,
+        "Ataque": 0,
+        "Defensa": 0,
+        "Ataque Especial": 0,
+        "Defensa Especial": 0,
+        "Velocidad": 0
+      }
+    },
+    {
+      "nombre": "Estatiniño",
+      "tipo1": "Eléctrico",
+      "tipo2": "Eléctrico",
+      "ruta_img": "Estatinino.jpg",
+      "caracteristicas": {
+        "PS": 0,
+        "Ataque": 0,
+        "Defensa": 0,
+        "Ataque Especial": 0,
+        "Defensa Especial": 0,
+        "Velocidad": 0
+      }
+    },
+    {
+      "nombre": "Noaipapel",
+      "tipo1": "Fantasma",
+      "tipo2": "Fantasma",
+      "ruta_img": "Noaipapel.png",
+      "caracteristicas": {
+        "PS": 0,
+        "Ataque": 0,
+        "Defensa": 0,
+        "Ataque Especial": 0,
+        "Defensa Especial": 0,
+        "Velocidad": 0
+      }
+    },
+    {
+      "nombre": "Miss Teria",
+      "tipo1": "Siniestro",
+      "tipo2": "Fantasma",
+      "ruta_img": "Miss_Teria.png",
+      "caracteristicas": {
+        "PS": 0,
+        "Ataque": 0,
+        "Defensa": 0,
+        "Ataque Especial": 0,
+        "Defensa Especial": 0,
+        "Velocidad": 0
+      }
+    },
+    {
+      "nombre": "Tengu",
+      "tipo1": "Volador",
+      "tipo2": "Volador",
+      "ruta_img": "Tengu.png",
+      "caracteristicas": {
+        "PS": 0,
+        "Ataque": 0,
+        "Defensa": 0,
+        "Ataque Especial": 0,
+        "Defensa Especial": 0,
+        "Velocidad": 0
+      }
+    },
+    {
+      "nombre": "Kyubi",
+      "tipo1": "Fuego",
+      "tipo2": "Fuego",
+      "ruta_img": "Kyubi.png",
+      "caracteristicas": {
+        "PS": 0,
+        "Ataque": 0,
+        "Defensa": 0,
+        "Ataque Especial": 0,
+        "Defensa Especial": 0,
+        "Velocidad": 0
+      }
+    },
+    {
+      "nombre": "Nievacolas",
+      "tipo1": "Hielo",
+      "tipo2": "Hielo",
+      "ruta_img": "Nievacolas.jpg",
+      "caracteristicas": {
+        "PS": 0,
+        "Ataque": 0,
+        "Defensa": 0,
+        "Ataque Especial": 0,
+        "Defensa Especial": 0,
+        "Velocidad": 0
+      }
+    },
+    {
+      "nombre": "Oskyubi",
+      "tipo1": "Siniestro",
+      "tipo2": "Siniestro",
+      "ruta_img": "Oskyubi.jpg",
+      "caracteristicas": {
+        "PS": 0,
+        "Ataque": 0,
+        "Defensa": 0,
+        "Ataque Especial": 0,
+        "Defensa Especial": 0,
+        "Velocidad": 0
+      }
+    },
+    {
+      "nombre": "Kimera",
+      "tipo1": "Eléctrico",
+      "tipo2": "Eléctrico",
+      "ruta_img": "Kimera.jpg",
+      "caracteristicas": {
+        "PS": 0,
+        "Ataque": 0,
+        "Defensa": 0,
+        "Ataque Especial": 0,
+        "Defensa Especial": 0,
+        "Velocidad": 0
+      }
+    },
+    {
+      "nombre": "Isotomas",
+      "tipo1": "Fuego",
+      "tipo2": "Fuego",
+      "ruta_img": "Isotomas.jpg",
+      "caracteristicas": {
+        "PS": 0,
+        "Ataque": 0,
+        "Defensa": 0,
+        "Ataque Especial": 0,
+        "Defensa Especial": 0,
+        "Velocidad": 0
+      }
+    },
+    {
+      "nombre": "Coneagente",
+      "tipo1": "Hada",
+      "tipo2": "Hada",
+      "ruta_img": "Coneagente.jpg",
+      "caracteristicas": {
+        "PS": 0,
+        "Ataque": 0,
+        "Defensa": 0,
+        "Ataque Especial": 0,
+        "Defensa Especial": 0,
+        "Velocidad": 0
+      }
+    },
+    {
+      "nombre": "Tentelento",
+      "tipo1": "Lucha",
+      "tipo2": "Lucha",
+      "ruta_img": "Tentelento.jpg",
+      "caracteristicas": {
+        "PS": 0,
+        "Ataque": 0,
+        "Defensa": 0,
+        "Ataque Especial": 0,
+        "Defensa Especial": 0,
+        "Velocidad": 0
+      }
+    },
+    {
+      "nombre": "Tentemacho",
+      "tipo1": "Lucha",
+      "tipo2": "Lucha",
+      "ruta_img": "Tentemacho.jpg",
+      "caracteristicas": {
+        "PS": 0,
+        "Ataque": 0,
+        "Defensa": 0,
+        "Ataque Especial": 0,
+        "Defensa Especial": 0,
+        "Velocidad": 0
+      }
+    },
+    {
+      "nombre": "Tenterila",
+      "tipo1": "Lucha",
+      "tipo2": "Siniestro",
+      "ruta_img": "Tenterila.jpg",
+      "caracteristicas": {
+        "PS": 0,
+        "Ataque": 0,
+        "Defensa": 0,
+        "Ataque Especial": 0,
+        "Defensa Especial": 0,
+        "Velocidad": 0
+      }
+    },
+    {
+      "nombre": "Quierodeso",
+      "tipo1": "Agua",
+      "tipo2": "Fantasma",
+      "ruta_img": "Quierodeso.jpg",
+      "caracteristicas": {
+        "PS": 0,
+        "Ataque": 0,
+        "Defensa": 0,
+        "Ataque Especial": 0,
+        "Defensa Especial": 0,
+        "Velocidad": 0
+      }
+    },
+    {
+      "nombre": "Gambulloso",
+      "tipo1": "Agua",
+      "tipo2": "Acero",
+      "ruta_img": "Gambulloso.jpg",
+      "caracteristicas": {
+        "PS": 0,
+        "Ataque": 0,
+        "Defensa": 0,
+        "Ataque Especial": 0,
+        "Defensa Especial": 0,
+        "Velocidad": 0
+      }
+    },
+    {
+      "nombre": "Indiligencio",
+      "tipo1": "Acero",
+      "tipo2": "Acero",
+      "ruta_img": "Indiligencio.jpg",
+      "caracteristicas": {
+        "PS": 0,
+        "Ataque": 0,
+        "Defensa": 0,
+        "Ataque Especial": 0,
+        "Defensa Especial": 0,
+        "Velocidad": 0
+      }
+    },
+    {
+      "nombre": "Tanquivocado",
+      "tipo1": "Acero",
+      "tipo2": "Acero",
+      "ruta_img": "Tanquivocado.jpg",
+      "caracteristicas": {
+        "PS": 0,
+        "Ataque": 0,
+        "Defensa": 0,
+        "Ataque Especial": 0,
+        "Defensa Especial": 0,
+        "Velocidad": 0
+      }
+    },
+    {
+      "nombre": "Aterracota",
+      "tipo1": "Roca",
+      "tipo2": "Roca",
+      "ruta_img": "Aterracota.jpg",
+      "caracteristicas": {
+        "PS": 0,
+        "Ataque": 0,
+        "Defensa": 0,
+        "Ataque Especial": 0,
+        "Defensa Especial": 0,
+        "Velocidad": 0
+      }
+    },
+    {
+      "nombre": "Explotacota",
+      "tipo1": "Roca",
+      "tipo2": "Roca",
+      "ruta_img": "Explotacota.jpg",
+      "caracteristicas": {
+        "PS": 0,
+        "Ataque": 0,
+        "Defensa": 0,
+        "Ataque Especial": 0,
+        "Defensa Especial": 0,
+        "Velocidad": 0
+      }
+    },
+    {
+      "nombre": "Nihablar",
+      "tipo1": "Tierra",
+      "tipo2": "Tierra",
+      "ruta_img": "Nihablar.jpg",
+      "caracteristicas": {
+        "PS": 0,
+        "Ataque": 0,
+        "Defensa": 0,
+        "Ataque Especial": 0,
+        "Defensa Especial": 0,
+        "Velocidad": 0
+      }
+    },
+    {
+      "nombre": "Impas",
+      "tipo1": "Tierra",
+      "tipo2": "Roca",
+      "ruta_img": "Impas.jpg",
+      "caracteristicas": {
+        "PS": 0,
+        "Ataque": 0,
+        "Defensa": 0,
+        "Ataque Especial": 0,
+        "Defensa Especial": 0,
+        "Velocidad": 0
+      }
+    },
+    {
+      "nombre": "Rebelcebu",
+      "tipo1": "Siniestro",
+      "tipo2": "Siniestro",
+      "ruta_img": "Rebelcebu.jpg",
+      "caracteristicas": {
+        "PS": 0,
+        "Ataque": 0,
+        "Defensa": 0,
+        "Ataque Especial": 0,
+        "Defensa Especial": 0,
+        "Velocidad": 0
+      }
+    },
+    {
+      "nombre": "Caporrista",
+      "tipo1": "Siniestro",
+      "tipo2": "Siniestro",
+      "ruta_img": "Caporrista.jpg",
+      "caracteristicas": {
+        "PS": 0,
+        "Ataque": 0,
+        "Defensa": 0,
+        "Ataque Especial": 0,
+        "Defensa Especial": 0,
+        "Velocidad": 0
+      }
+    },
+    {
+      "nombre": "Hermanion",
+      "tipo1": "Siniestro",
+      "tipo2": "Siniestro",
+      "ruta_img": "Hermanion.jpg",
+      "caracteristicas": {
+        "PS": 0,
+        "Ataque": 0,
+        "Defensa": 0,
+        "Ataque Especial": 0,
+        "Defensa Especial": 0,
+        "Velocidad": 0
+      }
+    },
+    {
+      "nombre": "Chocovaca",
+      "tipo1": "Fuego",
+      "tipo2": "Fuego",
+      "ruta_img": "Chocovaca.jpg",
+      "caracteristicas": {
+        "PS": 0,
+        "Ataque": 0,
+        "Defensa": 0,
+        "Ataque Especial": 0,
+        "Defensa Especial": 0,
+        "Velocidad": 0
+      }
+    },
+    {
+      "nombre": "Vacaloca",
+      "tipo1": "Fuego",
+      "tipo2": "Acero",
+      "ruta_img": "Vacaloca.jpg",
+      "caracteristicas": {
+        "PS": 0,
+        "Ataque": 0,
+        "Defensa": 0,
+        "Ataque Especial": 0,
+        "Defensa Especial": 0,
+        "Velocidad": 0
+      }
+    },
+    {
+      "nombre": "Fracalavero",
+      "tipo1": "Fantasma",
+      "tipo2": "Fantasma",
+      "ruta_img": "Fracalavero.jpg",
+      "caracteristicas": {
+        "PS": 0,
+        "Ataque": 0,
+        "Defensa": 0,
+        "Ataque Especial": 0,
+        "Defensa Especial": 0,
+        "Velocidad": 0
+      }
+    },
+    {
+      "nombre": "Calabilidoso",
+      "tipo1": "Fantasma",
+      "tipo2": "Fantasma",
+      "ruta_img": "Calabilidoso.jpg",
+      "caracteristicas": {
+        "PS": 0,
+        "Ataque": 0,
+        "Defensa": 0,
+        "Ataque Especial": 0,
+        "Defensa Especial": 0,
+        "Velocidad": 0
+      }
+    },
+    {
+      "nombre": "Lorigon",
+      "tipo1": "Fantasma",
+      "tipo2": "Fantasma",
+      "ruta_img": "Lorigon.jpg",
+      "caracteristicas": {
+        "PS": 0,
+        "Ataque": 0,
+        "Defensa": 0,
+        "Ataque Especial": 0,
+        "Defensa Especial": 0,
+        "Velocidad": 0
+      }
+    },
+    {
+      "nombre": "Monte Merario",
+      "tipo1": "Tierra",
+      "tipo2": "Tierra",
+      "ruta_img": "Monte_Merario.jpg",
+      "caracteristicas": {
+        "PS": 0,
+        "Ataque": 0,
+        "Defensa": 0,
+        "Ataque Especial": 0,
+        "Defensa Especial": 0,
+        "Velocidad": 0
+      }
+    },
+    {
+      "nombre": "Globqueo",
+      "tipo1": "Agua",
+      "tipo2": "Roca",
+      "ruta_img": "Globqueo.jpg",
+      "caracteristicas": {
+        "PS": 0,
+        "Ataque": 0,
+        "Defensa": 0,
+        "Ataque Especial": 0,
+        "Defensa Especial": 0,
+        "Velocidad": 0
+      }
+    },
+    {
+      "nombre": "Sumodon",
+      "tipo1": "Agua",
+      "tipo2": "Lucha",
+      "ruta_img": "Sumodon.jpg",
+      "caracteristicas": {
+        "PS": 0,
+        "Ataque": 0,
+        "Defensa": 0,
+        "Ataque Especial": 0,
+        "Defensa Especial": 0,
+        "Velocidad": 0
+      }
+    },
+    {
+      "nombre": "Supersumodon",
+      "tipo1": "Agua",
+      "tipo2": "Lucha",
+      "ruta_img": "Supersumodon.jpg",
+      "caracteristicas": {
+        "PS": 0,
+        "Ataque": 0,
+        "Defensa": 0,
+        "Ataque Especial": 0,
+        "Defensa Especial": 0,
+        "Velocidad": 0
+      }
+    },
+    {
+      "nombre": "Desinverest",
+      "tipo1": "Tierra",
+      "tipo2": "Tierra",
+      "ruta_img": "Desinverest.jpg",
+      "caracteristicas": {
+        "PS": 0,
+        "Ataque": 0,
+        "Defensa": 0,
+        "Ataque Especial": 0,
+        "Defensa Especial": 0,
+        "Velocidad": 0
+      }
+    },
+    {
+      "nombre": "Inverestupción",
+      "tipo1": "Tierra",
+      "tipo2": "Fuego",
+      "ruta_img": "Inverestupcion.jpg",
+      "caracteristicas": {
+        "PS": 0,
+        "Ataque": 0,
+        "Defensa": 0,
+        "Ataque Especial": 0,
+        "Defensa Especial": 0,
+        "Velocidad": 0
+      }
+    },
+    {
+      "nombre": "Inquielifante",
+      "tipo1": "Agua",
+      "tipo2": "Agua",
+      "ruta_img": "Inquielifante.jpg",
+      "caracteristicas": {
+        "PS": 0,
+        "Ataque": 0,
+        "Defensa": 0,
+        "Ataque Especial": 0,
+        "Defensa Especial": 0,
+        "Velocidad": 0
+      }
+    },
+    {
+      "nombre": "Mamuguanto",
+      "tipo1": "Agua",
+      "tipo2": "Agua",
+      "ruta_img": "Mamuguanto.jpg",
+      "caracteristicas": {
+        "PS": 0,
+        "Ataque": 0,
+        "Defensa": 0,
+        "Ataque Especial": 0,
+        "Defensa Especial": 0,
+        "Velocidad": 0
+      }
+    },
+    {
+      "nombre": "Rayael",
+      "tipo1": "Eléctrico",
+      "tipo2": "Eléctrico",
+      "ruta_img": "Rayael.jpg",
+      "caracteristicas": {
+        "PS": 0,
+        "Ataque": 0,
+        "Defensa": 0,
+        "Ataque Especial": 0,
+        "Defensa Especial": 0,
+        "Velocidad": 0
+      }
+    },
+    {
+      "nombre": "Rayael",
+      "tipo1": "Eléctrico",
+      "tipo2": "Eléctrico",
+      "ruta_img": "Rayael.jpg",
+      "caracteristicas": {
+        "PS": 0,
+        "Ataque": 0,
+        "Defensa": 0,
+        "Ataque Especial": 0,
+        "Defensa Especial": 0,
+        "Velocidad": 0
+      }
+    },
+    {
+      "nombre": "Calmarinero",
+      "tipo1": "Agua",
+      "tipo2": "Agua",
+      "ruta_img": "Calmarinero.jpg",
+      "caracteristicas": {
+        "PS": 0,
+        "Ataque": 0,
+        "Defensa": 0,
+        "Ataque Especial": 0,
+        "Defensa Especial": 0,
+        "Velocidad": 0
+      }
+    },
+    {
+      "nombre": "Almirante Admirable",
+      "tipo1": "Agua",
+      "tipo2": "Acero",
+      "ruta_img": "Almirante_Admirable.jpg",
+      "caracteristicas": {
+        "PS": 0,
+        "Ataque": 0,
+        "Defensa": 0,
+        "Ataque Especial": 0,
+        "Defensa Especial": 0,
+        "Velocidad": 0
+      }
+    },
+    {
+      "nombre": "Zudado",
+      "tipo1": "Normal",
+      "tipo2": "Normal",
+      "ruta_img": "Zudado.jpg",
+      "caracteristicas": {
+        "PS": 0,
+        "Ataque": 0,
+        "Defensa": 0,
+        "Ataque Especial": 0,
+        "Defensa Especial": 0,
+        "Velocidad": 0
+      }
+    },
+    {
+      "nombre": "Reahucio",
+      "tipo1": "Fantasma",
+      "tipo2": "Fantasma",
+      "ruta_img": "Reahucio.jpg",
+      "caracteristicas": {
+        "PS": 0,
+        "Ataque": 0,
+        "Defensa": 0,
+        "Ataque Especial": 0,
+        "Defensa Especial": 0,
+        "Velocidad": 0
+      }
+    },
+    {
+      "nombre": "Montaña Loca",
+      "tipo1": "Tierra",
+      "tipo2": "Hielo",
+      "ruta_img": "Montana_Loca.jpg",
+      "caracteristicas": {
+        "PS": 0,
+        "Ataque": 0,
+        "Defensa": 0,
+        "Ataque Especial": 0,
+        "Defensa Especial": 0,
+        "Velocidad": 0
+      }
+    },
+    {
+      "nombre": "Lord Lava",
+      "tipo1": "Tierra",
+      "tipo2": "Fuego",
+      "ruta_img": "Lord_Lava.jpg",
+      "caracteristicas": {
+        "PS": 0,
+        "Ataque": 0,
+        "Defensa": 0,
+        "Ataque Especial": 0,
+        "Defensa Especial": 0,
+        "Velocidad": 0
+      }
+    },
+    {
+      "nombre": "Castelius III",
+      "tipo1": "Acero",
+      "tipo2": "Acero",
+      "ruta_img": "Castelius_III.jpg",
+      "caracteristicas": {
+        "PS": 0,
+        "Ataque": 0,
+        "Defensa": 0,
+        "Ataque Especial": 0,
+        "Defensa Especial": 0,
+        "Velocidad": 0
+      }
+    },
+    {
+      "nombre": "Maxicastelius",
+      "tipo1": "Acero",
+      "tipo2": "Acero",
+      "ruta_img": "Maxicastelius.jpg",
+      "caracteristicas": {
+        "PS": 0,
+        "Ataque": 0,
+        "Defensa": 0,
+        "Ataque Especial": 0,
+        "Defensa Especial": 0,
+        "Velocidad": 0
+      }
+    },
+    {
+      "nombre": "Pegarabajo",
+      "tipo1": "Bicho",
+      "tipo2": "Lucha",
+      "ruta_img": "Pegarabajo.jpg",
+      "caracteristicas": {
+        "PS": 0,
+        "Ataque": 0,
+        "Defensa": 0,
+        "Ataque Especial": 0,
+        "Defensa Especial": 0,
+        "Velocidad": 0
+      }
+    },
+    {
+      "nombre": "Enormarabajo",
+      "tipo1": "Bicho",
+      "tipo2": "Lucha",
+      "ruta_img": "Enormarabajo.jpg",
+      "caracteristicas": {
+        "PS": 0,
+        "Ataque": 0,
+        "Defensa": 0,
+        "Ataque Especial": 0,
+        "Defensa Especial": 0,
+        "Velocidad": 0
+      }
+    },
+    {
+      "nombre": "Pom",
+      "tipo1": "Tierra",
+      "tipo2": "Tierra",
+      "ruta_img": "Pom.jpg",
+      "caracteristicas": {
+        "PS": 0,
+        "Ataque": 0,
+        "Defensa": 0,
+        "Ataque Especial": 0,
+        "Defensa Especial": 0,
+        "Velocidad": 0
+      }
+    },
+    {
+      "nombre": "Eleganfibio",
+      "tipo1": "Agua",
+      "tipo2": "Agua",
+      "ruta_img": "Eleganfibio.jpg",
+      "caracteristicas": {
+        "PS": 0,
+        "Ataque": 0,
+        "Defensa": 0,
+        "Ataque Especial": 0,
+        "Defensa Especial": 0,
+        "Velocidad": 0
+      }
+    },
+    {
+      "nombre": "Tiburon Tiburcio",
+      "tipo1": "Agua",
+      "tipo2": "Agua",
+      "ruta_img": "Tiburon_Tiburcio.jpg",
+      "caracteristicas": {
+        "PS": 0,
+        "Ataque": 0,
+        "Defensa": 0,
+        "Ataque Especial": 0,
+        "Defensa Especial": 0,
+        "Velocidad": 0
+      }
+    },
+    {
+      "nombre": "Tiburón Jaquetón",
+      "tipo1": "Lucha",
+      "tipo2": "Lucha",
+      "ruta_img": "Tiburon_Jaqueton.jpg",
+      "caracteristicas": {
+        "PS": 0,
+        "Ataque": 0,
+        "Defensa": 0,
+        "Ataque Especial": 0,
+        "Defensa Especial": 0,
+        "Velocidad": 0
+      }
+    },
+    {
+      "nombre": "Cap. Nublo",
+      "tipo1": "Agua",
+      "tipo2": "Lucha",
+      "ruta_img": "Cap_Nublo.jpg",
+      "caracteristicas": {
+        "PS": 0,
+        "Ataque": 0,
+        "Defensa": 0,
+        "Ataque Especial": 0,
+        "Defensa Especial": 0,
+        "Velocidad": 0
+      }
+    },
+    {
+      "nombre": "Bownilda",
+      "tipo1": "Hada",
+      "tipo2": "Hada",
+      "ruta_img": "Bownilda.jpg",
+      "caracteristicas": {
+        "PS": 0,
+        "Ataque": 0,
+        "Defensa": 0,
+        "Ataque Especial": 0,
+        "Defensa Especial": 0,
+        "Velocidad": 0
+      }
+    },
+    {
+      "nombre": "Deslumbrella",
+      "tipo1": "Fantasma",
+      "tipo2": "Fantasma",
+      "ruta_img": "Deslumbrella.jpg",
+      "caracteristicas": {
+        "PS": 0,
+        "Ataque": 0,
+        "Defensa": 0,
+        "Ataque Especial": 0,
+        "Defensa Especial": 0,
+        "Velocidad": 0
+      }
+    },
+    {
+      "nombre": "Rechinella",
+      "tipo1": "Fantasma",
+      "tipo2": "Fantasma",
+      "ruta_img": "Rechinella.jpg",
+      "caracteristicas": {
+        "PS": 0,
+        "Ataque": 0,
+        "Defensa": 0,
+        "Ataque Especial": 0,
+        "Defensa Especial": 0,
+        "Velocidad": 0
+      }
+    },
+    {
+      "nombre": "Ningarra",
+      "tipo1": "Bicho",
+      "tipo2": "Volador",
+      "ruta_img": "Ningarra.jpg",
+      "caracteristicas": {
+        "PS": 0,
+        "Ataque": 0,
+        "Defensa": 0,
+        "Ataque Especial": 0,
+        "Defensa Especial": 0,
+        "Velocidad": 0
+      }
+    },
+    {
+      "nombre": "Habilgarra",
+      "tipo1": "Bicho",
+      "tipo2": "Volador",
+      "ruta_img": "Habilgarra.jpg",
+      "caracteristicas": {
+        "PS": 0,
+        "Ataque": 0,
+        "Defensa": 0,
+        "Ataque Especial": 0,
+        "Defensa Especial": 0,
+        "Velocidad": 0
+      }
+    },
+    {
+      "nombre": "Cantigarra",
+      "tipo1": "Bicho",
+      "tipo2": "Lucha",
+      "ruta_img": "Cantigarra.jpg",
+      "caracteristicas": {
+        "PS": 0,
+        "Ataque": 0,
+        "Defensa": 0,
+        "Ataque Especial": 0,
+        "Defensa Especial": 0,
+        "Velocidad": 0
+      }
+    },
+    {
+      "nombre": "Apanleado",
+      "tipo1": "Lucha",
+      "tipo2": "Lucha",
+      "ruta_img": "Apanleado.jpg",
+      "caracteristicas": {
+        "PS": 0,
+        "Ataque": 0,
+        "Defensa": 0,
+        "Ataque Especial": 0,
+        "Defensa Especial": 0,
+        "Velocidad": 0
+      }
+    },
+    {
+      "nombre": "Panduro",
+      "tipo1": "Lucha",
+      "tipo2": "Lucha",
+      "ruta_img": "Panduro.jpg",
+      "caracteristicas": {
+        "PS": 0,
+        "Ataque": 0,
+        "Defensa": 0,
+        "Ataque Especial": 0,
+        "Defensa Especial": 0,
+        "Velocidad": 0
+      }
+    },
+    {
+      "nombre": "Escanlofrio",
+      "tipo1": "Hielo",
+      "tipo2": "Hielo",
+      "ruta_img": "Escanlofrio.jpg",
+      "caracteristicas": {
+        "PS": 0,
+        "Ataque": 0,
+        "Defensa": 0,
+        "Ataque Especial": 0,
+        "Defensa Especial": 0,
+        "Velocidad": 0
+      }
+    },
+    {
+      "nombre": "Frihuahua",
+      "tipo1": "Hielo",
+      "tipo2": "Hielo",
+      "ruta_img": "Frihuahua.jpg",
+      "caracteristicas": {
+        "PS": 0,
+        "Ataque": 0,
+        "Defensa": 0,
+        "Ataque Especial": 0,
+        "Defensa Especial": 0,
+        "Velocidad": 0
+      }
+    },
+    {
+      "nombre": "Lavadenco",
+      "tipo1": "Hielo",
+      "tipo2": "Fuego",
+      "ruta_img": "Lavadenco.jpg",
+      "caracteristicas": {
+        "PS": 0,
+        "Ataque": 0,
+        "Defensa": 0,
+        "Ataque Especial": 0,
+        "Defensa Especial": 0,
+        "Velocidad": 0
+      }
+    },
+    {
+      "nombre": "Superniñato",
+      "tipo1": "Hada",
+      "tipo2": "Hada",
+      "ruta_img": "Superninato.jpg",
+      "caracteristicas": {
+        "PS": 0,
+        "Ataque": 0,
+        "Defensa": 0,
+        "Ataque Especial": 0,
+        "Defensa Especial": 0,
+        "Velocidad": 0
+      }
+    },
+    {
+      "nombre": "Superniñato Rebelde",
+      "tipo1": "Hada",
+      "tipo2": "Siniestro",
+      "ruta_img": "Superninato_Rebelde.jpg",
+      "caracteristicas": {
+        "PS": 0,
+        "Ataque": 0,
+        "Defensa": 0,
+        "Ataque Especial": 0,
+        "Defensa Especial": 0,
+        "Velocidad": 0
+      }
+    },
+    {
+      "nombre": "Superniñato Picajoso",
+      "tipo1": "Hada",
+      "tipo2": "Fuego",
+      "ruta_img": "Superninato_Picajoso.jpg",
+      "caracteristicas": {
+        "PS": 0,
+        "Ataque": 0,
+        "Defensa": 0,
+        "Ataque Especial": 0,
+        "Defensa Especial": 0,
+        "Velocidad": 0
+      }
+    },
+    {
+      "nombre": "Picassina",
+      "tipo1": "Psíquico",
+      "tipo2": "Psíquico",
+      "ruta_img": "Picassina.jpg",
+      "caracteristicas": {
+        "PS": 0,
+        "Ataque": 0,
+        "Defensa": 0,
+        "Ataque Especial": 0,
+        "Defensa Especial": 0,
+        "Velocidad": 0
+      }
+    },
+    {
+      "nombre": "BellónZ",
+      "tipo1": "Hada",
+      "tipo2": "Hada",
+      "ruta_img": "BellonZ.jpg",
+      "caracteristicas": {
+        "PS": 0,
+        "Ataque": 0,
+        "Defensa": 0,
+        "Ataque Especial": 0,
+        "Defensa Especial": 0,
+        "Velocidad": 0
+      }
+    },
+    {
+      "nombre": "Gatallanes",
+      "tipo1": "Normal",
+      "tipo2": "Agua",
+      "ruta_img": "Gatallanes.jpg",
+      "caracteristicas": {
+        "PS": 0,
+        "Ataque": 0,
+        "Defensa": 0,
+        "Ataque Especial": 0,
+        "Defensa Especial": 0,
+        "Velocidad": 0
+      }
+    },
+    {
+      "nombre": "Limonescente",
+      "tipo1": "Eléctrico",
+      "tipo2": "Eléctrico",
+      "ruta_img": "Limonescente.jpg",
+      "caracteristicas": {
+        "PS": 0,
+        "Ataque": 0,
+        "Defensa": 0,
+        "Ataque Especial": 0,
+        "Defensa Especial": 0,
+        "Velocidad": 0
+      }
+    },
+    {
+      "nombre": "Baku",
+      "tipo1": "Psíquico",
+      "tipo2": "Psíquico",
+      "ruta_img": "Baku.jpg",
+      "caracteristicas": {
+        "PS": 0,
+        "Ataque": 0,
+        "Defensa": 0,
+        "Ataque Especial": 0,
+        "Defensa Especial": 0,
+        "Velocidad": 0
+      }
+    },
+    {
+      "nombre": "Somnia",
+      "tipo1": "Psíquico",
+      "tipo2": "Psíquico",
+      "ruta_img": "Somnia.jpg",
+      "caracteristicas": {
+        "PS": 0,
+        "Ataque": 0,
+        "Defensa": 0,
+        "Ataque Especial": 0,
+        "Defensa Especial": 0,
+        "Velocidad": 0
+      }
+    },
+    {
+      "nombre": "Pupilo Panja",
+      "tipo1": "Lucha",
+      "tipo2": "Lucha",
+      "ruta_img": "Pupilo_Panja.jpg",
+      "caracteristicas": {
+        "PS": 0,
+        "Ataque": 0,
+        "Defensa": 0,
+        "Ataque Especial": 0,
+        "Defensa Especial": 0,
+        "Velocidad": 0
+      }
+    },
+    {
+      "nombre": "Panja Pro",
+      "tipo1": "Lucha",
+      "tipo2": "Siniestro",
+      "ruta_img": "Panja_Pro.jpg",
+      "caracteristicas": {
+        "PS": 0,
+        "Ataque": 0,
+        "Defensa": 0,
+        "Ataque Especial": 0,
+        "Defensa Especial": 0,
+        "Velocidad": 0
+      }
+    },
+    {
+      "nombre": "Tomanota",
+      "tipo1": "Hada",
+      "tipo2": "Hada",
+      "ruta_img": "Tomanota.jpg",
+      "caracteristicas": {
+        "PS": 0,
+        "Ataque": 0,
+        "Defensa": 0,
+        "Ataque Especial": 0,
+        "Defensa Especial": 0,
+        "Velocidad": 0
+      }
+    },
+    {
+      "nombre": "Zalameria",
+      "tipo1": "Hada",
+      "tipo2": "Hada",
+      "ruta_img": "Zalameria.jpg",
+      "caracteristicas": {
+        "PS": 0,
+        "Ataque": 0,
+        "Defensa": 0,
+        "Ataque Especial": 0,
+        "Defensa Especial": 0,
+        "Velocidad": 0
+      }
+    },
+    {
+      "nombre": "Kappandante",
+      "tipo1": "Agua",
+      "tipo2": "Planta",
+      "ruta_img": "Kappandante.jpg",
+      "caracteristicas": {
+        "PS": 0,
+        "Ataque": 0,
+        "Defensa": 0,
+        "Ataque Especial": 0,
+        "Defensa Especial": 0,
+        "Velocidad": 0
+      }
+    },
+    {
+      "nombre": "Kappadachín",
+      "tipo1": "Agua",
+      "tipo2": "Planta",
+      "ruta_img": "Kappadachin.jpg",
+      "caracteristicas": {
+        "PS": 0,
+        "Ataque": 0,
+        "Defensa": 0,
+        "Ataque Especial": 0,
+        "Defensa Especial": 0,
+        "Velocidad": 0
+      }
+    },
+    {
+      "nombre": "Kapparfista",
+      "tipo1": "Agua",
+      "tipo2": "Hielo",
+      "ruta_img": "Kapparfista.jpg",
+      "caracteristicas": {
+        "PS": 0,
+        "Ataque": 0,
+        "Defensa": 0,
+        "Ataque Especial": 0,
+        "Defensa Especial": 0,
+        "Velocidad": 0
+      }
+    },
+    {
+      "nombre": "Komasan",
+      "tipo1": "Psíquico",
+      "tipo2": "Psíquico",
+      "ruta_img": "Komasan.jpg",
+      "caracteristicas": {
+        "PS": 0,
+        "Ataque": 0,
+        "Defensa": 0,
+        "Ataque Especial": 0,
+        "Defensa Especial": 0,
+        "Velocidad": 0
+      }
+    },
+    {
+      "nombre": "Komaleon",
+      "tipo1": "Psíquico",
+      "tipo2": "Fantasma",
+      "ruta_img": "Komaleon.jpg",
+      "caracteristicas": {
+        "PS": 0,
+        "Ataque": 0,
+        "Defensa": 0,
+        "Ataque Especial": 0,
+        "Defensa Especial": 0,
+        "Velocidad": 0
+      }
+    },
+    {
+      "nombre": "Komajiro",
+      "tipo1": "Psíquico",
+      "tipo2": "Psíquico",
+      "ruta_img": "Komajiro.jpg",
+      "caracteristicas": {
+        "PS": 0,
+        "Ataque": 0,
+        "Defensa": 0,
+        "Ataque Especial": 0,
+        "Defensa Especial": 0,
+        "Velocidad": 0
+      }
+    },
+    {
+      "nombre": "Komatigrado",
+      "tipo1": "Psíquico",
+      "tipo2": "Eléctrico",
+      "ruta_img": "Komatigrado.jpg",
+      "caracteristicas": {
+        "PS": 0,
+        "Ataque": 0,
+        "Defensa": 0,
+        "Ataque Especial": 0,
+        "Defensa Especial": 0,
+        "Velocidad": 0
+      }
+    },
+    {
+      "nombre": "Komaestopistas",
+      "tipo1": "Psíquico",
+      "tipo2": "Psíquico",
+      "ruta_img": "Komaestopistas.jpg",
+      "caracteristicas": {
+        "PS": 0,
+        "Ataque": 0,
+        "Defensa": 0,
+        "Ataque Especial": 0,
+        "Defensa Especial": 0,
+        "Velocidad": 0
+      }
+    },
+    {
+      "nombre": "Cellisca",
+      "tipo1": "Agua",
+      "tipo2": "Agua",
+      "ruta_img": "Cellisca.jpg",
+      "caracteristicas": {
+        "PS": 0,
+        "Ataque": 0,
+        "Defensa": 0,
+        "Ataque Especial": 0,
+        "Defensa Especial": 0,
+        "Velocidad": 0
+      }
+    },
+    {
+      "nombre": "Rapidizo",
+      "tipo1": "Normal",
+      "tipo2": "Lucha",
+      "ruta_img": "Rapidizo.jpg",
+      "caracteristicas": {
+        "PS": 0,
+        "Ataque": 0,
+        "Defensa": 0,
+        "Ataque Especial": 0,
+        "Defensa Especial": 0,
+        "Velocidad": 0
+      }
+    },
+    {
+      "nombre": "Todoapesta",
+      "tipo1": "Veneno",
+      "tipo2": "Veneno",
+      "ruta_img": "Todoapesta.jpg",
+      "caracteristicas": {
+        "PS": 0,
+        "Ataque": 0,
+        "Defensa": 0,
+        "Ataque Especial": 0,
+        "Defensa Especial": 0,
+        "Velocidad": 0
+      }
+    },
+    {
+      "nombre": "Pufipatitas",
+      "tipo1": "Hada",
+      "tipo2": "Hada",
+      "ruta_img": "Pufipatitas.jpg",
+      "caracteristicas": {
+        "PS": 0,
+        "Ataque": 0,
+        "Defensa": 0,
+        "Ataque Especial": 0,
+        "Defensa Especial": 0,
+        "Velocidad": 0
+      }
+    },
+    {
+      "nombre": "Pufilindo",
+      "tipo1": "Hada",
+      "tipo2": "Hada",
+      "ruta_img": "Pufilindo.jpg",
+      "caracteristicas": {
+        "PS": 0,
+        "Ataque": 0,
+        "Defensa": 0,
+        "Ataque Especial": 0,
+        "Defensa Especial": 0,
+        "Velocidad": 0
+      }
+    },
+    {
+      "nombre": "Pufimaloso",
+      "tipo1": "Hada",
+      "tipo2": "Veneno",
+      "ruta_img": "Pufimaloso.jpg",
+      "caracteristicas": {
+        "PS": 0,
+        "Ataque": 0,
+        "Defensa": 0,
+        "Ataque Especial": 0,
+        "Defensa Especial": 0,
+        "Velocidad": 0
+      }
+    },
+    {
+      "nombre": "Oso Boco",
+      "tipo1": "Normal",
+      "tipo2": "Normal",
+      "ruta_img": "Oso_Boco.jpg",
+      "caracteristicas": {
+        "PS": 0,
+        "Ataque": 0,
+        "Defensa": 0,
+        "Ataque Especial": 0,
+        "Defensa Especial": 0,
+        "Velocidad": 0
+      }
+    },
+    {
+      "nombre": "Fristina",
+      "tipo1": "Hielo",
+      "tipo2": "Hielo",
+      "ruta_img": "Fristina.jpg",
+      "caracteristicas": {
+        "PS": 0,
+        "Ataque": 0,
+        "Defensa": 0,
+        "Ataque Especial": 0,
+        "Defensa Especial": 0,
+        "Velocidad": 0
+      }
+    },
+    {
+      "nombre": "Granizia",
+      "tipo1": "Hielo",
+      "tipo2": "Hielo",
+      "ruta_img": "Granizia.jpg",
+      "caracteristicas": {
+        "PS": 0,
+        "Ataque": 0,
+        "Defensa": 0,
+        "Ataque Especial": 0,
+        "Defensa Especial": 0,
+        "Velocidad": 0
+      }
+    },
+    {
+      "nombre": "Damona",
+      "tipo1": "Hielo",
+      "tipo2": "Fantasma",
+      "ruta_img": "Damona.jpg",
+      "caracteristicas": {
+        "PS": 0,
+        "Ataque": 0,
+        "Defensa": 0,
+        "Ataque Especial": 0,
+        "Defensa Especial": 0,
+        "Velocidad": 0
+      }
+    },
+    {
+      "nombre": "Camelia",
+      "tipo1": "Hielo",
+      "tipo2": "Fuego",
+      "ruta_img": "Camelia.png",
+      "caracteristicas": {
+        "PS": 0,
+        "Ataque": 0,
+        "Defensa": 0,
+        "Ataque Especial": 0,
+        "Defensa Especial": 0,
+        "Velocidad": 0
+      }
+    },
+    {
+      "nombre": "Segadora",
+      "tipo1": "Acero",
+      "tipo2": "Acero",
+      "ruta_img": "Segador.jpg",
+      "caracteristicas": {
+        "PS": 0,
+        "Ataque": 0,
+        "Defensa": 0,
+        "Ataque Especial": 0,
+        "Defensa Especial": 0,
+        "Velocidad": 0
+      }
+    },
+    {
+      "nombre": "Kappafalso",
+      "tipo1": "Planta",
+      "tipo2": "Planta",
+      "ruta_img": "Kappafalso.jpg",
+      "caracteristicas": {
+        "PS": 0,
+        "Ataque": 0,
+        "Defensa": 0,
+        "Ataque Especial": 0,
+        "Defensa Especial": 0,
+        "Velocidad": 0
+      }
+    },
+    {
+      "nombre": "Chunda y Tachunda",
+      "tipo1": "Hada",
+      "tipo2": "Hada",
+      "ruta_img": "Chunda_y_Tachunda.jpg",
+      "caracteristicas": {
+        "PS": 0,
+        "Ataque": 0,
+        "Defensa": 0,
+        "Ataque Especial": 0,
+        "Defensa Especial": 0,
+        "Velocidad": 0
+      }
+    },
+    {
+      "nombre": "Tenguriginal",
+      "tipo1": "Psíquico",
+      "tipo2": "Psíquico",
+      "ruta_img": "Tenguriginal.jpg",
+      "caracteristicas": {
+        "PS": 0,
+        "Ataque": 0,
+        "Defensa": 0,
+        "Ataque Especial": 0,
+        "Defensa Especial": 0,
+        "Velocidad": 0
+      }
+    },
+    {
+      "nombre": "Cimbron",
+      "tipo1": "Planta",
+      "tipo2": "Planta",
+      "ruta_img": "Cimbron.jpg",
+      "caracteristicas": {
+        "PS": 0,
+        "Ataque": 0,
+        "Defensa": 0,
+        "Ataque Especial": 0,
+        "Defensa Especial": 0,
+        "Velocidad": 0
+      }
+    },
+    {
+      "nombre": "Alcagabana",
+      "tipo1": "Planta",
+      "tipo2": "Planta",
+      "ruta_img": "Alcagabana.jpg",
+      "caracteristicas": {
+        "PS": 0,
+        "Ataque": 0,
+        "Defensa": 0,
+        "Ataque Especial": 0,
+        "Defensa Especial": 0,
+        "Velocidad": 0
+      }
+    },
+    {
+      "nombre": "Abuzampa",
+      "tipo1": "Normal",
+      "tipo2": "Normal",
+      "ruta_img": "Abuzampa.jpg",
+      "caracteristicas": {
+        "PS": 0,
+        "Ataque": 0,
+        "Defensa": 0,
+        "Ataque Especial": 0,
+        "Defensa Especial": 0,
+        "Velocidad": 0
+      }
+    },
+    {
+      "nombre": "Gargazampa",
+      "tipo1": "Normal",
+      "tipo2": "Normal",
+      "ruta_img": "Gargazampa.jpg",
+      "caracteristicas": {
+        "PS": 0,
+        "Ataque": 0,
+        "Defensa": 0,
+        "Ataque Especial": 0,
+        "Defensa Especial": 0,
+        "Velocidad": 0
+      }
+    },
+    {
+      "nombre": "Abuzampa XXL",
+      "tipo1": "Normal",
+      "tipo2": "Normal",
+      "ruta_img": "Abuzampa_XXL.jpg",
+      "caracteristicas": {
+        "PS": 0,
+        "Ataque": 0,
+        "Defensa": 0,
+        "Ataque Especial": 0,
+        "Defensa Especial": 0,
+        "Velocidad": 0
+      }
+    },
+    {
+      "nombre": "Abuflauta",
+      "tipo1": "Normal",
+      "tipo2": "Normal",
+      "ruta_img": "Abuflauta.jpg",
+      "caracteristicas": {
+        "PS": 0,
+        "Ataque": 0,
+        "Defensa": 0,
+        "Ataque Especial": 0,
+        "Defensa Especial": 0,
+        "Velocidad": 0
+      }
+    },
+    {
+      "nombre": "Níscala",
+      "tipo1": "Planta",
+      "tipo2": "Planta",
+      "ruta_img": "Niscala.jpg",
+      "caracteristicas": {
+        "PS": 0,
+        "Ataque": 0,
+        "Defensa": 0,
+        "Ataque Especial": 0,
+        "Defensa Especial": 0,
+        "Velocidad": 0
+      }
+    },
+    {
+      "nombre": "Curaníscala",
+      "tipo1": "Planta",
+      "tipo2": "Hada",
+      "ruta_img": "Curaniscala.jpg",
+      "caracteristicas": {
+        "PS": 0,
+        "Ataque": 0,
+        "Defensa": 0,
+        "Ataque Especial": 0,
+        "Defensa Especial": 0,
+        "Velocidad": 0
+      }
+    },
+    {
+      "nombre": "Arenito",
+      "tipo1": "Tierra",
+      "tipo2": "Tierra",
+      "ruta_img": "Arenito.jpg",
+      "caracteristicas": {
+        "PS": 0,
+        "Ataque": 0,
+        "Defensa": 0,
+        "Ataque Especial": 0,
+        "Defensa Especial": 0,
+        "Velocidad": 0
+      }
+    },
+    {
+      "nombre": "Don Arenito",
+      "tipo1": "Tierra",
+      "tipo2": "Tierra",
+      "ruta_img": "Don_Arenito.jpg",
+      "caracteristicas": {
+        "PS": 0,
+        "Ataque": 0,
+        "Defensa": 0,
+        "Ataque Especial": 0,
+        "Defensa Especial": 0,
+        "Velocidad": 0
+      }
+    },
+    {
+      "nombre": "Albornocita Azul",
+      "tipo1": "Agua",
+      "tipo2": "Agua",
+      "ruta_img": "Albornocita_Azul.jpg",
+      "caracteristicas": {
+        "PS": 0,
+        "Ataque": 0,
+        "Defensa": 0,
+        "Ataque Especial": 0,
+        "Defensa Especial": 0,
+        "Velocidad": 0
+      }
+    },
+    {
+      "nombre": "Florentina",
+      "tipo1": "Agua",
+      "tipo2": "Agua",
+      "ruta_img": "Florentina.jpg",
+      "caracteristicas": {
+        "PS": 0,
+        "Ataque": 0,
+        "Defensa": 0,
+        "Ataque Especial": 0,
+        "Defensa Especial": 0,
+        "Velocidad": 0
+      }
+    },
+    {
+      "nombre": "Contentallo",
+      "tipo1": "Planta",
+      "tipo2": "Planta",
+      "ruta_img": "Contentallo.jpg",
+      "caracteristicas": {
+        "PS": 0,
+        "Ataque": 0,
+        "Defensa": 0,
+        "Ataque Especial": 0,
+        "Defensa Especial": 0,
+        "Velocidad": 0
+      }
+    },
+    {
+      "nombre": "Talloestrella",
+      "tipo1": "Planta",
+      "tipo2": "Planta",
+      "ruta_img": "Talloestrella.jpg",
+      "caracteristicas": {
+        "PS": 0,
+        "Ataque": 0,
+        "Defensa": 0,
+        "Ataque Especial": 0,
+        "Defensa Especial": 0,
+        "Velocidad": 0
+      }
+    },
+    {
+      "nombre": "Nomeda",
+      "tipo1": "Normal",
+      "tipo2": "Normal",
+      "ruta_img": "Nomeda.jpg",
+      "caracteristicas": {
+        "PS": 0,
+        "Ataque": 0,
+        "Defensa": 0,
+        "Ataque Especial": 0,
+        "Defensa Especial": 0,
+        "Velocidad": 0
+      }
+    },
+    {
+      "nombre": "Pauperman",
+      "tipo1": "Normal",
+      "tipo2": "Volador",
+      "ruta_img": "Pauperman.jpg",
+      "caracteristicas": {
+        "PS": 0,
+        "Ataque": 0,
+        "Defensa": 0,
+        "Ataque Especial": 0,
+        "Defensa Especial": 0,
+        "Velocidad": 0
+      }
+    },
+    {
+      "nombre": "Nomi",
+      "tipo1": "Normal",
+      "tipo2": "Normal",
+      "ruta_img": "Nomi.jpg",
+      "caracteristicas": {
+        "PS": 0,
+        "Ataque": 0,
+        "Defensa": 0,
+        "Ataque Especial": 0,
+        "Defensa Especial": 0,
+        "Velocidad": 0
+      }
+    },
+    {
+      "nombre": "Gran Nomi",
+      "tipo1": "Normal",
+      "tipo2": "Hada",
+      "ruta_img": "Gran_Nomi.jpg",
+      "caracteristicas": {
+        "PS": 0,
+        "Ataque": 0,
+        "Defensa": 0,
+        "Ataque Especial": 0,
+        "Defensa Especial": 0,
+        "Velocidad": 0
+      }
+    },
+    {
+      "nombre": "Enerposa",
+      "tipo1": "Bicho",
+      "tipo2": "Volador",
+      "ruta_img": "Enerposa.jpg",
+      "caracteristicas": {
+        "PS": 0,
+        "Ataque": 0,
+        "Defensa": 0,
+        "Ataque Especial": 0,
+        "Defensa Especial": 0,
+        "Velocidad": 0
+      }
+    },
+    {
+      "nombre": "Eneposa",
+      "tipo1": "Veneno",
+      "tipo2": "Volador",
+      "ruta_img": "Eneposa.jpg",
+      "caracteristicas": {
+        "PS": 0,
+        "Ataque": 0,
+        "Defensa": 0,
+        "Ataque Especial": 0,
+        "Defensa Especial": 0,
+        "Velocidad": 0
+      }
+    },
+    {
+      "nombre": "Mejorposa",
+      "tipo1": "Bicho",
+      "tipo2": "Veneno",
+      "ruta_img": "Mejorposa.jpg",
+      "caracteristicas": {
+        "PS": 0,
+        "Ataque": 0,
+        "Defensa": 0,
+        "Ataque Especial": 0,
+        "Defensa Especial": 0,
+        "Velocidad": 0
+      }
+    },
+    {
+      "nombre": "Vivariposa",
+      "tipo1": "Hada",
+      "tipo2": "Volador",
+      "ruta_img": "Vivariposa.jpg",
+      "caracteristicas": {
+        "PS": 0,
+        "Ataque": 0,
+        "Defensa": 0,
+        "Ataque Especial": 0,
+        "Defensa Especial": 0,
+        "Velocidad": 0
+      }
+    },
+    {
+      "nombre": "Torivinador",
+      "tipo1": "Psíquico",
+      "tipo2": "Psíquico",
+      "ruta_img": "Torivinador.jpg",
+      "caracteristicas": {
+        "PS": 0,
+        "Ataque": 0,
+        "Defensa": 0,
+        "Ataque Especial": 0,
+        "Defensa Especial": 0,
+        "Velocidad": 0
+      }
+    },
+    {
+      "nombre": "Torivino",
+      "tipo1": "Psíquico",
+      "tipo2": "Tierra",
+      "ruta_img": "Torivino.jpg",
+      "caracteristicas": {
+        "PS": 0,
+        "Ataque": 0,
+        "Defensa": 0,
+        "Ataque Especial": 0,
+        "Defensa Especial": 0,
+        "Velocidad": 0
+      }
+    },
+    {
+      "nombre": "DON-CHAN",
+      "tipo1": "Normal",
+      "tipo2": "Normal",
+      "ruta_img": "DON-CHAN.jpg",
+      "caracteristicas": {
+        "PS": 0,
+        "Ataque": 0,
+        "Defensa": 0,
+        "Ataque Especial": 0,
+        "Defensa Especial": 0,
+        "Velocidad": 0
+      }
+    },
+    {
+      "nombre": "Rayito",
+      "tipo1": "Eléctrico",
+      "tipo2": "Eléctrico",
+      "ruta_img": "Rayito.jpg",
+      "caracteristicas": {
+        "PS": 0,
+        "Ataque": 0,
+        "Defensa": 0,
+        "Ataque Especial": 0,
+        "Defensa Especial": 0,
+        "Velocidad": 0
+      }
+    },
+    {
+      "nombre": "Tricotom",
+      "tipo1": "Hielo",
+      "tipo2": "Volador",
+      "ruta_img": "Tricotom.jpg",
+      "caracteristicas": {
+        "PS": 0,
+        "Ataque": 0,
+        "Defensa": 0,
+        "Ataque Especial": 0,
+        "Defensa Especial": 0,
+        "Velocidad": 0
+      }
+    },
+    {
+      "nombre": "Indeciguro",
+      "tipo1": "Normal",
+      "tipo2": "Tierra",
+      "ruta_img": "Indeciguro.jpg",
+      "caracteristicas": {
+        "PS": 0,
+        "Ataque": 0,
+        "Defensa": 0,
+        "Ataque Especial": 0,
+        "Defensa Especial": 0,
+        "Velocidad": 0
+      }
+    },
+    {
+      "nombre": "Trabalanghi",
+      "tipo1": "Normal",
+      "tipo2": "Psíquico",
+      "ruta_img": "Trabalanghi.jpg",
+      "caracteristicas": {
+        "PS": 0,
+        "Ataque": 0,
+        "Defensa": 0,
+        "Ataque Especial": 0,
+        "Defensa Especial": 0,
+        "Velocidad": 0
+      }
+    },
+    {
+      "nombre": "Dormidomingo",
+      "tipo1": "Veneno",
+      "tipo2": "Veneno",
+      "ruta_img": "Dormidomingo.jpg",
+      "caracteristicas": {
+        "PS": 0,
+        "Ataque": 0,
+        "Defensa": 0,
+        "Ataque Especial": 0,
+        "Defensa Especial": 0,
+        "Velocidad": 0
+      }
+    },
+    {
+      "nombre": "Auxiliadora",
+      "tipo1": "Hada",
+      "tipo2": "Hada",
+      "ruta_img": "Auxiliadora.jpg",
+      "caracteristicas": {
+        "PS": 0,
+        "Ataque": 0,
+        "Defensa": 0,
+        "Ataque Especial": 0,
+        "Defensa Especial": 0,
+        "Velocidad": 0
+      }
+    },
+    {
+      "nombre": "Felisonte",
+      "tipo1": "Psíquico",
+      "tipo2": "Psíquico",
+      "ruta_img": "Felisonte.jpg",
+      "caracteristicas": {
+        "PS": 0,
+        "Ataque": 0,
+        "Defensa": 0,
+        "Ataque Especial": 0,
+        "Defensa Especial": 0,
+        "Velocidad": 0
+      }
+    },
+    {
+      "nombre": "Negatalia",
+      "tipo1": "Veneno",
+      "tipo2": "Veneno",
+      "ruta_img": "Negatalia.jpg",
+      "caracteristicas": {
+        "PS": 0,
+        "Ataque": 0,
+        "Defensa": 0,
+        "Ataque Especial": 0,
+        "Defensa Especial": 0,
+        "Velocidad": 0
+      }
+    },
+    {
+      "nombre": "Reversa",
+      "tipo1": "Psíquico",
+      "tipo2": "Veneno",
+      "ruta_img": "Reversa.jpg",
+      "caracteristicas": {
+        "PS": 0,
+        "Ataque": 0,
+        "Defensa": 0,
+        "Ataque Especial": 0,
+        "Defensa Especial": 0,
+        "Velocidad": 0
+      }
+    },
+    {
+      "nombre": "Esmaltina",
+      "tipo1": "Hada",
+      "tipo2": "Hada",
+      "ruta_img": "Esmaltina.jpg",
+      "caracteristicas": {
+        "PS": 0,
+        "Ataque": 0,
+        "Defensa": 0,
+        "Ataque Especial": 0,
+        "Defensa Especial": 0,
+        "Velocidad": 0
+      }
+    },
+    {
+      "nombre": "Bolilete",
+      "tipo1": "Psíquico",
+      "tipo2": "Psíquico",
+      "ruta_img": "Bolilete.jpg",
+      "caracteristicas": {
+        "PS": 0,
+        "Ataque": 0,
+        "Defensa": 0,
+        "Ataque Especial": 0,
+        "Defensa Especial": 0,
+        "Velocidad": 0
+      }
+    },
+    {
+      "nombre": "Sombrillo",
+      "tipo1": "Fantasma",
+      "tipo2": "Fantasma",
+      "ruta_img": "Sombrillo.jpg",
+      "caracteristicas": {
+        "PS": 0,
+        "Ataque": 0,
+        "Defensa": 0,
+        "Ataque Especial": 0,
+        "Defensa Especial": 0,
+        "Velocidad": 0
+      }
+    },
+    {
+      "nombre": "Sombrillogro",
+      "tipo1": "Fantasma",
+      "tipo2": "Tierra",
+      "ruta_img": "Sombrillogro.jpg",
+      "caracteristicas": {
+        "PS": 0,
+        "Ataque": 0,
+        "Defensa": 0,
+        "Ataque Especial": 0,
+        "Defensa Especial": 0,
+        "Velocidad": 0
+      }
+    },
+    {
+      "nombre": "Fantasfitriona",
+      "tipo1": "Fantasma",
+      "tipo2": "Fantasma",
+      "ruta_img": "Fantasfitriona.jpg",
+      "caracteristicas": {
+        "PS": 0,
+        "Ataque": 0,
+        "Defensa": 0,
+        "Ataque Especial": 0,
+        "Defensa Especial": 0,
+        "Velocidad": 0
+      }
+    },
+    {
+      "nombre": "Papa Rayo",
+      "tipo1": "Eléctrico",
+      "tipo2": "Volador",
+      "ruta_img": "Papa_Rayo.jpg",
+      "caracteristicas": {
+        "PS": 0,
+        "Ataque": 0,
+        "Defensa": 0,
+        "Ataque Especial": 0,
+        "Defensa Especial": 0,
+        "Velocidad": 0
+      }
+    },
+    {
+      "nombre": "Mamá Aura",
+      "tipo1": "Hada",
+      "tipo2": "Volador",
+      "ruta_img": "Mama_Aura.jpg",
+      "caracteristicas": {
+        "PS": 0,
+        "Ataque": 0,
+        "Defensa": 0,
+        "Ataque Especial": 0,
+        "Defensa Especial": 0,
+        "Velocidad": 0
+      }
+    },
+    {
+      "nombre": "Kyryn",
+      "tipo1": "Dragón",
+      "tipo2": "Dragón",
+      "ruta_img": "Kyryn.jpg",
+      "caracteristicas": {
+        "PS": 0,
+        "Ataque": 0,
+        "Defensa": 0,
+        "Ataque Especial": 0,
+        "Defensa Especial": 0,
+        "Velocidad": 0
+      }
+    },
+    {
+      "nombre": "Sónico",
+      "tipo1": "Normal",
+      "tipo2": "Normal",
+      "ruta_img": "Sonico.jpg",
+      "caracteristicas": {
+        "PS": 0,
+        "Ataque": 0,
+        "Defensa": 0,
+        "Ataque Especial": 0,
+        "Defensa Especial": 0,
+        "Velocidad": 0
+      }
+    },
+    {
+      "nombre": "Noguio",
+      "tipo1": "Veneno",
+      "tipo2": "Veneno",
+      "ruta_img": "Noguio.jpg",
+      "caracteristicas": {
+        "PS": 0,
+        "Ataque": 0,
+        "Defensa": 0,
+        "Ataque Especial": 0,
+        "Defensa Especial": 0,
+        "Velocidad": 0
+      }
+    },
+    {
+      "nombre": "Angio",
+      "tipo1": "Acero",
+      "tipo2": "Acero",
+      "ruta_img": "Angio.jpg",
+      "caracteristicas": {
+        "PS": 0,
+        "Ataque": 0,
+        "Defensa": 0,
+        "Ataque Especial": 0,
+        "Defensa Especial": 0,
+        "Velocidad": 0
+      }
+    },
+    {
+      "nombre": "Agujeto",
+      "tipo1": "Acero",
+      "tipo2": "Acero",
+      "ruta_img": "Agujeto.jpg",
+      "caracteristicas": {
+        "PS": 0,
+        "Ataque": 0,
+        "Defensa": 0,
+        "Ataque Especial": 0,
+        "Defensa Especial": 0,
+        "Velocidad": 0
+      }
+    },
+    {
+      "nombre": "Acelgo",
+      "tipo1": "Planta",
+      "tipo2": "Planta",
+      "ruta_img": "Acelgo.jpg",
+      "caracteristicas": {
+        "PS": 0,
+        "Ataque": 0,
+        "Defensa": 0,
+        "Ataque Especial": 0,
+        "Defensa Especial": 0,
+        "Velocidad": 0
+      }
+    },
+    {
+      "nombre": "Morenaso",
+      "tipo1": "Planta",
+      "tipo2": "Fuego",
+      "ruta_img": "Morenaso.jpg",
+      "caracteristicas": {
+        "PS": 0,
+        "Ataque": 0,
+        "Defensa": 0,
+        "Ataque Especial": 0,
+        "Defensa Especial": 0,
+        "Velocidad": 0
+      }
+    },
+    {
+      "nombre": "Envelo",
+      "tipo1": "Siniestro",
+      "tipo2": "Siniestro",
+      "ruta_img": "Envelo.jpg",
+      "caracteristicas": {
+        "PS": 0,
+        "Ataque": 0,
+        "Defensa": 0,
+        "Ataque Especial": 0,
+        "Defensa Especial": 0,
+        "Velocidad": 0
+      }
+    },
+    {
+      "nombre": "Cafeino",
+      "tipo1": "Siniestro",
+      "tipo2": "Siniestro",
+      "ruta_img": "Cafeino.jpg",
+      "caracteristicas": {
+        "PS": 0,
+        "Ataque": 0,
+        "Defensa": 0,
+        "Ataque Especial": 0,
+        "Defensa Especial": 0,
+        "Velocidad": 0
+      }
+    },
+    {
+      "nombre": "Trenditopico",
+      "tipo1": "Siniestro",
+      "tipo2": "Siniestro",
+      "ruta_img": "Trenditopico.jpg",
+      "caracteristicas": {
+        "PS": 0,
+        "Ataque": 0,
+        "Defensa": 0,
+        "Ataque Especial": 0,
+        "Defensa Especial": 0,
+        "Velocidad": 0
+      }
+    },
+    {
+      "nombre": "Retuiterio",
+      "tipo1": "Siniestro",
+      "tipo2": "Siniestro",
+      "ruta_img": "Retuiterio.jpg",
+      "caracteristicas": {
+        "PS": 0,
+        "Ataque": 0,
+        "Defensa": 0,
+        "Ataque Especial": 0,
+        "Defensa Especial": 0,
+        "Velocidad": 0
+      }
+    },
+    {
+      "nombre": "Negatisquito",
+      "tipo1": "Siniestro",
+      "tipo2": "Volador",
+      "ruta_img": "Negatisquito.jpg",
+      "caracteristicas": {
+        "PS": 0,
+        "Ataque": 0,
+        "Defensa": 0,
+        "Ataque Especial": 0,
+        "Defensa Especial": 0,
+        "Velocidad": 0
+      }
+    },
+    {
+      "nombre": "Deprisquito",
+      "tipo1": "Siniestro",
+      "tipo2": "Volador",
+      "ruta_img": "Deprisquito.jpg",
+      "caracteristicas": {
+        "PS": 0,
+        "Ataque": 0,
+        "Defensa": 0,
+        "Ataque Especial": 0,
+        "Defensa Especial": 0,
+        "Velocidad": 0
+      }
+    },
+    {
+      "nombre": "Picorron",
+      "tipo1": "Siniestro",
+      "tipo2": "Volador",
+      "ruta_img": "Picorron.jpg",
+      "caracteristicas": {
+        "PS": 0,
+        "Ataque": 0,
+        "Defensa": 0,
+        "Ataque Especial": 0,
+        "Defensa Especial": 0,
+        "Velocidad": 0
+      }
+    },
+    {
+      "nombre": "Nomevén",
+      "tipo1": "Siniestro",
+      "tipo2": "Siniestro",
+      "ruta_img": "Nomeven.jpg",
+      "caracteristicas": {
+        "PS": 0,
+        "Ataque": 0,
+        "Defensa": 0,
+        "Ataque Especial": 0,
+        "Defensa Especial": 0,
+        "Velocidad": 0
+      }
+    },
+    {
+      "nombre": "Nostoy",
+      "tipo1": "Siniestro",
+      "tipo2": "Siniestro",
+      "ruta_img": "Nostoy.jpg",
+      "caracteristicas": {
+        "PS": 0,
+        "Ataque": 0,
+        "Defensa": 0,
+        "Ataque Especial": 0,
+        "Defensa Especial": 0,
+        "Velocidad": 0
+      }
+    },
+    {
+      "nombre": "Nul",
+      "tipo1": "Siniestro",
+      "tipo2": "Agua",
+      "ruta_img": "NuI.jpg",
+      "caracteristicas": {
+        "PS": 0,
+        "Ataque": 0,
+        "Defensa": 0,
+        "Ataque Especial": 0,
+        "Defensa Especial": 0,
+        "Velocidad": 0
+      }
+    },
+    {
+      "nombre": "Panceto",
+      "tipo1": "Fuego",
+      "tipo2": "Fuego",
+      "ruta_img": "Panceto.jpg",
+      "caracteristicas": {
+        "PS": 0,
+        "Ataque": 0,
+        "Defensa": 0,
+        "Ataque Especial": 0,
+        "Defensa Especial": 0,
+        "Velocidad": 0
+      }
+    },
+    {
+      "nombre": "Suspicioni",
+      "tipo1": "Agua",
+      "tipo2": "Siniestro",
+      "ruta_img": "Suspicioni.jpg",
+      "caracteristicas": {
+        "PS": 0,
+        "Ataque": 0,
+        "Defensa": 0,
+        "Ataque Especial": 0,
+        "Defensa Especial": 0,
+        "Velocidad": 0
+      }
+    },
+    {
+      "nombre": "Pataletoni",
+      "tipo1": "Fuego",
+      "tipo2": "Siniestro",
+      "ruta_img": "Pataletoni.jpg",
+      "caracteristicas": {
+        "PS": 0,
+        "Ataque": 0,
+        "Defensa": 0,
+        "Ataque Especial": 0,
+        "Defensa Especial": 0,
+        "Velocidad": 0
+      }
+    },
+    {
+      "nombre": "Contrarioni",
+      "tipo1": "Eléctrico",
+      "tipo2": "Siniestro",
+      "ruta_img": "Contrarioni.jpg",
+      "caracteristicas": {
+        "PS": 0,
+        "Ataque": 0,
+        "Defensa": 0,
+        "Ataque Especial": 0,
+        "Defensa Especial": 0,
+        "Velocidad": 0
+      }
+    },
+    {
+      "nombre": "Keji Do Khan",
+      "tipo1": "Planta",
+      "tipo2": "Planta",
+      "ruta_img": "Keji_Do_Khan.jpg",
+      "caracteristicas": {
+        "PS": 0,
+        "Ataque": 0,
+        "Defensa": 0,
+        "Ataque Especial": 0,
+        "Defensa Especial": 0,
+        "Velocidad": 0
+      }
+    },
+    {
+      "nombre": "Gruñon Khan",
+      "tipo1": "Planta",
+      "tipo2": "Lucha",
+      "ruta_img": "Grunon_Khan.jpg",
+      "caracteristicas": {
+        "PS": 0,
+        "Ataque": 0,
+        "Defensa": 0,
+        "Ataque Especial": 0,
+        "Defensa Especial": 0,
+        "Velocidad": 0
+      }
+    },
+    {
+      "nombre": "Enciélago",
+      "tipo1": "Siniestro",
+      "tipo2": "Volador",
+      "ruta_img": "Encielago.jpg",
+      "caracteristicas": {
+        "PS": 0,
+        "Ataque": 0,
+        "Defensa": 0,
+        "Ataque Especial": 0,
+        "Defensa Especial": 0,
+        "Velocidad": 0
+      }
+    },
+    {
+      "nombre": "Enciélago",
+      "tipo1": "Siniestro",
+      "tipo2": "Volador",
+      "ruta_img": "Caserielago.jpg",
+      "caracteristicas": {
+        "PS": 0,
+        "Ataque": 0,
+        "Defensa": 0,
+        "Ataque Especial": 0,
+        "Defensa Especial": 0,
+        "Velocidad": 0
+      }
+    },
+    {
+      "nombre": "Ermiciélago",
+      "tipo1": "Siniestro",
+      "tipo2": "Volador",
+      "ruta_img": "Ermicielago.jpg",
+      "caracteristicas": {
+        "PS": 0,
+        "Ataque": 0,
+        "Defensa": 0,
+        "Ataque Especial": 0,
+        "Defensa Especial": 0,
+        "Velocidad": 0
+      }
+    },
+    {
+      "nombre": "Prestragón",
+      "tipo1": "Siniestro",
+      "tipo2": "Siniestro",
+      "ruta_img": "Prestragon.jpg",
+      "caracteristicas": {
+        "PS": 0,
+        "Ataque": 0,
+        "Defensa": 0,
+        "Ataque Especial": 0,
+        "Defensa Especial": 0,
+        "Velocidad": 0
+      }
+    },
+    {
+      "nombre": "Prestragón",
+      "tipo1": "Siniestro",
+      "tipo2": "Siniestro",
+      "ruta_img": "Bolsadron.jpg",
+      "caracteristicas": {
+        "PS": 0,
+        "Ataque": 0,
+        "Defensa": 0,
+        "Ataque Especial": 0,
+        "Defensa Especial": 0,
+        "Velocidad": 0
+      }
+    },
+    {
+      "nombre": "Bilgatino",
+      "tipo1": "Eléctrico",
+      "tipo2": "Siniestro",
+      "ruta_img": "Bilgatino.jpg",
+      "caracteristicas": {
+        "PS": 0,
+        "Ataque": 0,
+        "Defensa": 0,
+        "Ataque Especial": 0,
+        "Defensa Especial": 0,
+        "Velocidad": 0
+      }
+    },
+    {
+      "nombre": "Su Hackeltad",
+      "tipo1": "Eléctrico",
+      "tipo2": "Siniestro",
+      "ruta_img": "Su_Hackeltad.jpg",
+      "caracteristicas": {
+        "PS": 0,
+        "Ataque": 0,
+        "Defensa": 0,
+        "Ataque Especial": 0,
+        "Defensa Especial": 0,
+        "Velocidad": 0
+      }
+    },
+    {
+      "nombre": "Rataleza",
+      "tipo1": "Siniestro",
+      "tipo2": "Siniestro",
+      "ruta_img": "Rataleza.jpg",
+      "caracteristicas": {
+        "PS": 0,
+        "Ataque": 0,
+        "Defensa": 0,
+        "Ataque Especial": 0,
+        "Defensa Especial": 0,
+        "Velocidad": 0
+      }
+    },
+    {
+      "nombre": "Timo Gallo",
+      "tipo1": "Siniestro",
+      "tipo2": "Siniestro",
+      "ruta_img": "Timo_Gallo.jpg",
+      "caracteristicas": {
+        "PS": 0,
+        "Ataque": 0,
+        "Defensa": 0,
+        "Ataque Especial": 0,
+        "Defensa Especial": 0,
+        "Velocidad": 0
+      }
+    },
+    {
+      "nombre": "Rocky Malrolla",
+      "tipo1": "Lucha",
+      "tipo2": "Siniestro",
+      "ruta_img": "Rocky_Malrolla.jpg",
+      "caracteristicas": {
+        "PS": 0,
+        "Ataque": 0,
+        "Defensa": 0,
+        "Ataque Especial": 0,
+        "Defensa Especial": 0,
+        "Velocidad": 0
+      }
+    },
+    {
+      "nombre": "Frivolia",
+      "tipo1": "Hielo",
+      "tipo2": "Siniestro",
+      "ruta_img": "Frivolia.jpg",
+      "caracteristicas": {
+        "PS": 0,
+        "Ataque": 0,
+        "Defensa": 0,
+        "Ataque Especial": 0,
+        "Defensa Especial": 0,
+        "Velocidad": 0
+      }
+    },
+    {
+      "nombre": "Usapyon",
+      "tipo1": "Siniestro",
+      "tipo2": "Siniestro",
+      "ruta_img": "Usapyon.jpg",
+      "caracteristicas": {
+        "PS": 0,
+        "Ataque": 0,
+        "Defensa": 0,
+        "Ataque Especial": 0,
+        "Defensa Especial": 0,
+        "Velocidad": 0
+      }
+    },
+    {
+      "nombre": "Negasus",
+      "tipo1": "Hada",
+      "tipo2": "Eléctrico",
+      "ruta_img": "Negasus.jpg",
+      "caracteristicas": {
+        "PS": 0,
+        "Ataque": 0,
+        "Defensa": 0,
+        "Ataque Especial": 0,
+        "Defensa Especial": 0,
+        "Velocidad": 0
+      }
+    },
+    {
+      "nombre": "Pifiasus",
+      "tipo1": "Hada",
+      "tipo2": "Siniestro",
+      "ruta_img": "Pifiasus.jpg",
+      "caracteristicas": {
+        "PS": 0,
+        "Ataque": 0,
+        "Defensa": 0,
+        "Ataque Especial": 0,
+        "Defensa Especial": 0,
+        "Velocidad": 0
+      }
+    },
+    {
+      "nombre": "Timidiablo",
+      "tipo1": "Fuego",
+      "tipo2": "Fuego",
+      "ruta_img": "Timidiablo.jpg",
+      "caracteristicas": {
+        "PS": 0,
+        "Ataque": 0,
+        "Defensa": 0,
+        "Ataque Especial": 0,
+        "Defensa Especial": 0,
+        "Velocidad": 0
+      }
+    },
+    {
+      "nombre": "Osademonio",
+      "tipo1": "Fuego",
+      "tipo2": "Fuego",
+      "ruta_img": "Osademonio.jpg",
+      "caracteristicas": {
+        "PS": 0,
+        "Ataque": 0,
+        "Defensa": 0,
+        "Ataque Especial": 0,
+        "Defensa Especial": 0,
+        "Velocidad": 0
+      }
+    },
+    {
+      "nombre": "Conde Caries",
+      "tipo1": "Fuego",
+      "tipo2": "Siniestro",
+      "ruta_img": "Conde_Caries.jpg",
+      "caracteristicas": {
+        "PS": 0,
+        "Ataque": 0,
+        "Defensa": 0,
+        "Ataque Especial": 0,
+        "Defensa Especial": 0,
+        "Velocidad": 0
+      }
+    },
+    {
+      "nombre": "Ojezno",
+      "tipo1": "Siniestro",
+      "tipo2": "Siniestro",
+      "ruta_img": "Ojezno.jpg",
+      "caracteristicas": {
+        "PS": 0,
+        "Ataque": 0,
+        "Defensa": 0,
+        "Ataque Especial": 0,
+        "Defensa Especial": 0,
+        "Velocidad": 0
+      }
+    },
+    {
+      "nombre": "Joyezno",
+      "tipo1": "Roca",
+      "tipo2": "Roca",
+      "ruta_img": "Joyezno.jpg",
+      "caracteristicas": {
+        "PS": 0,
+        "Ataque": 0,
+        "Defensa": 0,
+        "Ataque Especial": 0,
+        "Defensa Especial": 0,
+        "Velocidad": 0
+      }
+    },
+    {
+      "nombre": "Dr. Nihil Listo",
+      "tipo1": "Veneno",
+      "tipo2": "Veneno",
+      "ruta_img": "Dr_Nihil_Listo.jpg",
+      "caracteristicas": {
+        "PS": 0,
+        "Ataque": 0,
+        "Defensa": 0,
+        "Ataque Especial": 0,
+        "Defensa Especial": 0,
+        "Velocidad": 0
+      }
+    },
+    {
+      "nombre": "Ejemtos",
+      "tipo1": "Agua",
+      "tipo2": "Veneno",
+      "ruta_img": "Ejemtos.jpg",
+      "caracteristicas": {
+        "PS": 0,
+        "Ataque": 0,
+        "Defensa": 0,
+        "Ataque Especial": 0,
+        "Defensa Especial": 0,
+        "Velocidad": 0
+      }
+    },
+    {
+      "nombre": "Goto",
+      "tipo1": "Agua",
+      "tipo2": "Agua",
+      "ruta_img": "Goto.jpg",
+      "caracteristicas": {
+        "PS": 0,
+        "Ataque": 0,
+        "Defensa": 0,
+        "Ataque Especial": 0,
+        "Defensa Especial": 0,
+        "Velocidad": 0
+      }
+    },
+    {
+      "nombre": "Sirimiri",
+      "tipo1": "Agua",
+      "tipo2": "Agua",
+      "ruta_img": "Sirimiri.jpg",
+      "caracteristicas": {
+        "PS": 0,
+        "Ataque": 0,
+        "Defensa": 0,
+        "Ataque Especial": 0,
+        "Defensa Especial": 0,
+        "Velocidad": 0
+      }
+    },
+    {
+      "nombre": "Copo",
+      "tipo1": "Hielo",
+      "tipo2": "Hielo",
+      "ruta_img": "Copo.jpg",
+      "caracteristicas": {
+        "PS": 0,
+        "Ataque": 0,
+        "Defensa": 0,
+        "Ataque Especial": 0,
+        "Defensa Especial": 0,
+        "Velocidad": 0
+      }
+    },
+    {
+      "nombre": "Ventisquero",
+      "tipo1": "Hielo",
+      "tipo2": "Hielo",
+      "ruta_img": "Ventisquero.jpg",
+      "caracteristicas": {
+        "PS": 0,
+        "Ataque": 0,
+        "Defensa": 0,
+        "Ataque Especial": 0,
+        "Defensa Especial": 0,
+        "Velocidad": 0
+      }
+    },
+    {
+      "nombre": "Cartepollo",
+      "tipo1": "Veneno",
+      "tipo2": "Veneno",
+      "ruta_img": "Cartepollo.jpg",
+      "caracteristicas": {
+        "PS": 0,
+        "Ataque": 0,
+        "Defensa": 0,
+        "Ataque Especial": 0,
+        "Defensa Especial": 0,
+        "Velocidad": 0
+      }
+    },
+    {
+      "nombre": "Mirlobirlo",
+      "tipo1": "Veneno",
+      "tipo2": "Veneno",
+      "ruta_img": "Mirlobirlo.jpg",
+      "caracteristicas": {
+        "PS": 0,
+        "Ataque": 0,
+        "Defensa": 0,
+        "Ataque Especial": 0,
+        "Defensa Especial": 0,
+        "Velocidad": 0
+      }
+    },
+    {
+      "nombre": "Estréquito",
+      "tipo1": "Normal",
+      "tipo2": "Normal",
+      "ruta_img": "Estrequito.jpg",
+      "caracteristicas": {
+        "PS": 0,
+        "Ataque": 0,
+        "Defensa": 0,
+        "Ataque Especial": 0,
+        "Defensa Especial": 0,
+        "Velocidad": 0
+      }
+    },
+    {
+      "nombre": "Vrumbo",
+      "tipo1": "Normal",
+      "tipo2": "Siniestro",
+      "ruta_img": "Vrumbo.jpg",
+      "caracteristicas": {
+        "PS": 0,
+        "Ataque": 0,
+        "Defensa": 0,
+        "Ataque Especial": 0,
+        "Defensa Especial": 0,
+        "Velocidad": 0
+      }
+    },
+    {
+      "nombre": "Ayay",
+      "tipo1": "Siniestro",
+      "tipo2": "Volador",
+      "ruta_img": "Ayay.jpg",
+      "caracteristicas": {
+        "PS": 0,
+        "Ataque": 0,
+        "Defensa": 0,
+        "Ataque Especial": 0,
+        "Defensa Especial": 0,
+        "Velocidad": 0
+      }
+    },
+    {
+      "nombre": "Cantonio",
+      "tipo1": "Siniestro",
+      "tipo2": "Siniestro",
+      "ruta_img": "Cantonio.jpg",
+      "caracteristicas": {
+        "PS": 0,
+        "Ataque": 0,
+        "Defensa": 0,
+        "Ataque Especial": 0,
+        "Defensa Especial": 0,
+        "Velocidad": 0
+      }
+    },
+    {
+      "nombre": "Multiniche",
+      "tipo1": "Siniestro",
+      "tipo2": "Siniestro",
+      "ruta_img": "Multiniche.jpg",
+      "caracteristicas": {
+        "PS": 0,
+        "Ataque": 0,
+        "Defensa": 0,
+        "Ataque Especial": 0,
+        "Defensa Especial": 0,
+        "Velocidad": 0
+      }
+    },
+    {
+      "nombre": "Ser Bero",
+      "tipo1": "Siniestro",
+      "tipo2": "Fantasma",
+      "ruta_img": "Ser_Bero.jpg",
+      "caracteristicas": {
+        "PS": 0,
+        "Ataque": 0,
+        "Defensa": 0,
+        "Ataque Especial": 0,
+        "Defensa Especial": 0,
+        "Velocidad": 0
+      }
+    },
+    {
+      "nombre": "Peluco",
+      "tipo1": "Siniestro",
+      "tipo2": "Siniestro",
+      "ruta_img": "Peluco.jpg",
+      "caracteristicas": {
+        "PS": 0,
+        "Ataque": 0,
+        "Defensa": 0,
+        "Ataque Especial": 0,
+        "Defensa Especial": 0,
+        "Velocidad": 0
+      }
+    },
+    {
+      "nombre": "Foliculio",
+      "tipo1": "Siniestro",
+      "tipo2": "Siniestro",
+      "ruta_img": "Foliculio.jpg",
+      "caracteristicas": {
+        "PS": 0,
+        "Ataque": 0,
+        "Defensa": 0,
+        "Ataque Especial": 0,
+        "Defensa Especial": 0,
+        "Velocidad": 0
+      }
+    },
+    {
+      "nombre": "Dabombo",
+      "tipo1": "Fantasma",
+      "tipo2": "Fantasma",
+      "ruta_img": "Dabombo.jpg",
+      "caracteristicas": {
+        "PS": 0,
+        "Ataque": 0,
+        "Defensa": 0,
+        "Ataque Especial": 0,
+        "Defensa Especial": 0,
+        "Velocidad": 0
+      }
+    },
+    {
+      "nombre": "Los Bomboledores",
+      "tipo1": "Fuego",
+      "tipo2": "Fantasma",
+      "ruta_img": "Los_Bomboledores.jpg",
+      "caracteristicas": {
+        "PS": 0,
+        "Ataque": 0,
+        "Defensa": 0,
+        "Ataque Especial": 0,
+        "Defensa Especial": 0,
+        "Velocidad": 0
+      }
+    },
+    {
+      "nombre": "No-No",
+      "tipo1": "Siniestro",
+      "tipo2": "Siniestro",
+      "ruta_img": "No-No.jpg",
+      "caracteristicas": {
+        "PS": 0,
+        "Ataque": 0,
+        "Defensa": 0,
+        "Ataque Especial": 0,
+        "Defensa Especial": 0,
+        "Velocidad": 0
+      }
+    },
+    {
+      "nombre": "Amarilia",
+      "tipo1": "Eléctrico",
+      "tipo2": "Fantasma",
+      "ruta_img": "Amarilia.jpg",
+      "caracteristicas": {
+        "PS": 0,
+        "Ataque": 0,
+        "Defensa": 0,
+        "Ataque Especial": 0,
+        "Defensa Especial": 0,
+        "Velocidad": 0
+      }
+    },
+    {
+      "nombre": "Reboca",
+      "tipo1": "Siniestro",
+      "tipo2": "Siniestro",
+      "ruta_img": "Reboca.jpg",
+      "caracteristicas": {
+        "PS": 0,
+        "Ataque": 0,
+        "Defensa": 0,
+        "Ataque Especial": 0,
+        "Defensa Especial": 0,
+        "Velocidad": 0
+      }
+    },
+    {
+      "nombre": "Aranecido",
+      "tipo1": "Tierra",
+      "tipo2": "Tierra",
+      "ruta_img": "Aranecido.jpg",
+      "caracteristicas": {
+        "PS": 0,
+        "Ataque": 0,
+        "Defensa": 0,
+        "Ataque Especial": 0,
+        "Defensa Especial": 0,
+        "Velocidad": 0
+      }
+    },
+    {
+      "nombre": "Desaranecido",
+      "tipo1": "Tierra",
+      "tipo2": "Eléctrico",
+      "ruta_img": "Desaranecido.jpg",
+      "caracteristicas": {
+        "PS": 0,
+        "Ataque": 0,
+        "Defensa": 0,
+        "Ataque Especial": 0,
+        "Defensa Especial": 0,
+        "Velocidad": 0
+      }
+    },
+    {
+      "nombre": "Batallitos",
+      "tipo1": "Eléctrico",
+      "tipo2": "Eléctrico",
+      "ruta_img": "Batallitos.jpg",
+      "caracteristicas": {
+        "PS": 0,
+        "Ataque": 0,
+        "Defensa": 0,
+        "Ataque Especial": 0,
+        "Defensa Especial": 0,
+        "Velocidad": 0
+      }
+    },
+    {
+      "nombre": "Eskakeo",
+      "tipo1": "Siniestro",
+      "tipo2": "Siniestro",
+      "ruta_img": "Eskakeo.jpg",
+      "caracteristicas": {
+        "PS": 0,
+        "Ataque": 0,
+        "Defensa": 0,
+        "Ataque Especial": 0,
+        "Defensa Especial": 0,
+        "Velocidad": 0
+      }
+    },
+    {
+      "nombre": "Graciosno",
+      "tipo1": "Psíquico",
+      "tipo2": "Fantasma",
+      "ruta_img": "Graciosno.jpg",
+      "caracteristicas": {
+        "PS": 0,
+        "Ataque": 0,
+        "Defensa": 0,
+        "Ataque Especial": 0,
+        "Defensa Especial": 0,
+        "Velocidad": 0
+      }
+    },
+    {
+      "nombre": "Sololo",
+      "tipo1": "Roca",
+      "tipo2": "Roca",
+      "ruta_img": "Sololo.jpg",
+      "caracteristicas": {
+        "PS": 0,
+        "Ataque": 0,
+        "Defensa": 0,
+        "Ataque Especial": 0,
+        "Defensa Especial": 0,
+        "Velocidad": 0
+      }
+    },
+    {
+      "nombre": "Pandalón",
+      "tipo1": "Normal",
+      "tipo2": "Normal",
+      "ruta_img": "Pandalon.jpg",
+      "caracteristicas": {
+        "PS": 0,
+        "Ataque": 0,
+        "Defensa": 0,
+        "Ataque Especial": 0,
+        "Defensa Especial": 0,
+        "Velocidad": 0
+      }
+    },
+    {
+      "nombre": "Cuesco",
+      "tipo1": "Veneno",
+      "tipo2": "Veneno",
+      "ruta_img": "Cuesco.jpg",
+      "caracteristicas": {
+        "PS": 0,
+        "Ataque": 0,
+        "Defensa": 0,
+        "Ataque Especial": 0,
+        "Defensa Especial": 0,
+        "Velocidad": 0
+      }
+    },
+    {
+      "nombre": "Péditum",
+      "tipo1": "Veneno",
+      "tipo2": "Veneno",
+      "ruta_img": "Peditum.jpg",
+      "caracteristicas": {
+        "PS": 0,
+        "Ataque": 0,
+        "Defensa": 0,
+        "Ataque Especial": 0,
+        "Defensa Especial": 0,
+        "Velocidad": 0
+      }
+    },
+    {
+      "nombre": "Lena",
+      "tipo1": "Fantasma",
+      "tipo2": "Fantasma",
+      "ruta_img": "Lena.jpg",
+      "caracteristicas": {
+        "PS": 0,
+        "Ataque": 0,
+        "Defensa": 0,
+        "Ataque Especial": 0,
+        "Defensa Especial": 0,
+        "Velocidad": 0
+      }
+    },
+    {
+      "nombre": "Malena",
+      "tipo1": "Fantasma",
+      "tipo2": "Fantasma",
+      "ruta_img": "Malena.jpg",
+      "caracteristicas": {
+        "PS": 0,
+        "Ataque": 0,
+        "Defensa": 0,
+        "Ataque Especial": 0,
+        "Defensa Especial": 0,
+        "Velocidad": 0
+      }
+    },
+    {
+      "nombre": "Arruñona",
+      "tipo1": "Siniestro",
+      "tipo2": "Siniestro",
+      "ruta_img": "Arrunona.jpg",
+      "caracteristicas": {
+        "PS": 0,
+        "Ataque": 0,
+        "Defensa": 0,
+        "Ataque Especial": 0,
+        "Defensa Especial": 0,
+        "Velocidad": 0
+      }
+    },
+    {
+      "nombre": "Belladona",
+      "tipo1": "Hada",
+      "tipo2": "Hada",
+      "ruta_img": "Belladona.jpg",
+      "caracteristicas": {
+        "PS": 0,
+        "Ataque": 0,
+        "Defensa": 0,
+        "Ataque Especial": 0,
+        "Defensa Especial": 0,
+        "Velocidad": 0
+      }
+    },
+    {
+      "nombre": "Condespótico",
+      "tipo1": "Siniestro",
+      "tipo2": "Siniestro",
+      "ruta_img": "Condespotico.jpg",
+      "caracteristicas": {
+        "PS": 0,
+        "Ataque": 0,
+        "Defensa": 0,
+        "Ataque Especial": 0,
+        "Defensa Especial": 0,
+        "Velocidad": 0
+      }
+    },
+    {
+      "nombre": "Flequipilante",
+      "tipo1": "Siniestro",
+      "tipo2": "Siniestro",
+      "ruta_img": "Flequipilante.jpg",
+      "caracteristicas": {
+        "PS": 0,
+        "Ataque": 0,
+        "Defensa": 0,
+        "Ataque Especial": 0,
+        "Defensa Especial": 0,
+        "Velocidad": 0
+      }
+    },
+    {
+      "nombre": "Insomna",
+      "tipo1": "Siniestro",
+      "tipo2": "Siniestro",
+      "ruta_img": "Insomna.jpg",
+      "caracteristicas": {
+        "PS": 0,
+        "Ataque": 0,
+        "Defensa": 0,
+        "Ataque Especial": 0,
+        "Defensa Especial": 0,
+        "Velocidad": 0
+      }
+    },
+    {
+      "nombre": "Morfea",
+      "tipo1": "Siniestro",
+      "tipo2": "Psíquico",
+      "ruta_img": "Morfea.jpg",
+      "caracteristicas": {
+        "PS": 0,
+        "Ataque": 0,
+        "Defensa": 0,
+        "Ataque Especial": 0,
+        "Defensa Especial": 0,
+        "Velocidad": 0
+      }
+    },
+    {
+      "nombre": "Origenio",
+      "tipo1": "Normal",
+      "tipo2": "Normal",
+      "ruta_img": "Origenio.jpg",
+      "caracteristicas": {
+        "PS": 0,
+        "Ataque": 0,
+        "Defensa": 0,
+        "Ataque Especial": 0,
+        "Defensa Especial": 0,
+        "Velocidad": 0
+      }
+    },
+    {
+      "nombre": "Fulgurilla",
+      "tipo1": "Fuego",
+      "tipo2": "Fuego",
+      "ruta_img": "Fulgurilla.jpg",
+      "caracteristicas": {
+        "PS": 0,
+        "Ataque": 0,
+        "Defensa": 0,
+        "Ataque Especial": 0,
+        "Defensa Especial": 0,
+        "Velocidad": 0
+      }
+    }
+  ]
+}

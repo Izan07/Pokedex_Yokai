@@ -1,0 +1,85 @@
+{% extends "base.html" %}
+
+{% block content %}
+<section class="detail">
+    <div class="detail-hero">
+        <div class="detail-art">
+            <img src="{{ yokai.image_url }}" alt="{{ yokai.name }}">
+        </div>
+        <div class="detail-heading">
+            <p class="number">Yo-kai Watch</p>
+            <h1>{{ yokai.name }}</h1>
+            <div class="types">
+                {% for type in yokai.types %}
+                    <span class="badge type-{{ type.css_class }}">{{ type.name }}</span>
+                {% endfor %}
+                {% if yokai.rareza %}
+                    <span class="badge rarity rarity-{{ yokai.rarity_class }}"><span aria-hidden="true">{{ yokai.rarity_icon }}</span>{{ yokai.rareza }}</span>
+                {% endif %}
+            </div>
+        </div>
+        <div class="actions">
+            <button class="favorite-toggle favorite-toggle-detail" type="button" data-favorite-button data-yokai-slug="{{ yokai.slug }}" aria-label="Añadir a favoritos" aria-pressed="false" title="Añadir a favoritos">
+                <span aria-hidden="true">☆</span><span>Favorito</span>
+            </button>
+            <a class="button" href="{{ url_for('edit', slug=yokai.slug) }}">Editar</a>
+            <form method="post" action="{{ url_for('delete', slug=yokai.slug) }}" onsubmit="return confirm('¿Eliminar este Yo-kai?');">
+                <button class="button danger" type="submit">Eliminar</button>
+            </form>
+        </div>
+    </div>
+</section>
+<script src="{{ url_for('static', filename='js/favorites.js') }}" defer></script>
+
+<section class="detail-characteristics" aria-labelledby="characteristics-title">
+    <h2 id="characteristics-title">Características</h2>
+    <div class="characteristics-list">
+        {% for stat in yokai.stat_rows %}
+            <div class="characteristic-row">
+                <span class="characteristic-name">{{ stat.name }}</span>
+                <strong class="characteristic-value">{{ stat.value }}</strong>
+                <div class="characteristic-track" role="progressbar" aria-label="{{ stat.name }}" aria-valuemin="0" aria-valuemax="255" aria-valuenow="{{ stat.value }}">
+                    <span class="characteristic-fill stat-{{ stat.class }}" style="width: {{ stat.width }}%"></span>
+                </div>
+            </div>
+        {% endfor %}
+    </div>
+</section>
+
+<section class="type-effectiveness" aria-labelledby="effectiveness-title">
+    <h2 id="effectiveness-title">Debilidades y resistencias</h2>
+    {% if yokai.type_effectiveness.weak %}
+        <div class="effectiveness-group">
+            <h3>Débil contra</h3>
+            <div class="effectiveness-list">
+                {% for type in yokai.type_effectiveness.weak %}
+                    <span class="effectiveness-item"><span class="badge type-{{ type.css_class }}">{{ type.name }}</span><strong>{{ type.multiplier }}</strong></span>
+                {% endfor %}
+            </div>
+        </div>
+    {% endif %}
+    {% if yokai.type_effectiveness.resists %}
+        <div class="effectiveness-group">
+            <h3>Resiste</h3>
+            <div class="effectiveness-list">
+                {% for type in yokai.type_effectiveness.resists %}
+                    <span class="effectiveness-item"><span class="badge type-{{ type.css_class }}">{{ type.name }}</span><strong>{{ type.multiplier }}</strong></span>
+                {% endfor %}
+            </div>
+        </div>
+    {% endif %}
+    {% if yokai.type_effectiveness.immune %}
+        <div class="effectiveness-group">
+            <h3>Inmune a</h3>
+            <div class="effectiveness-list">
+                {% for type in yokai.type_effectiveness.immune %}
+                    <span class="effectiveness-item"><span class="badge type-{{ type.css_class }}">{{ type.name }}</span><strong>{{ type.multiplier }}</strong></span>
+                {% endfor %}
+            </div>
+        </div>
+    {% endif %}
+    {% if not yokai.type_effectiveness.weak and not yokai.type_effectiveness.resists and not yokai.type_effectiveness.immune %}
+        <p>Sin debilidades, resistencias ni inmunidades de tipo.</p>
+    {% endif %}
+</section>
+{% endblock %}

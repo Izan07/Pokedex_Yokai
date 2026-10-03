@@ -1,0 +1,92 @@
+{
+    "Normal": {
+        "x2": [],
+        "x0_5": ["Roca", "Acero"],
+        "x0": ["Fantasma"]
+    },
+    "Fuego": {
+        "x2": ["Planta", "Hielo", "Bicho", "Acero"],
+        "x0_5": ["Fuego", "Agua", "Roca", "Dragón"],
+        "x0": []
+    },
+    "Agua": {
+        "x2": ["Fuego", "Tierra", "Roca"],
+        "x0_5": ["Agua", "Planta", "Dragón"],
+        "x0": []
+    },
+    "Eléctrico": {
+        "x2": ["Agua", "Volador"],
+        "x0_5": ["Eléctrico", "Planta", "Dragón"],
+        "x0": ["Tierra"]
+    },
+    "Planta": {
+        "x2": ["Agua", "Tierra", "Roca"],
+        "x0_5": ["Fuego", "Planta", "Veneno", "Volador", "Bicho", "Dragón", "Acero"],
+        "x0": []
+    },
+    "Hielo": {
+        "x2": ["Planta", "Tierra", "Volador", "Dragón"],
+        "x0_5": ["Fuego", "Agua", "Hielo", "Acero"],
+        "x0": []
+    },
+    "Lucha": {
+        "x2": ["Normal", "Hielo", "Roca", "Siniestro", "Acero"],
+        "x0_5": ["Veneno", "Volador", "Psíquico", "Bicho", "Hada"],
+        "x0": ["Fantasma"]
+    },
+    "Veneno": {
+        "x2": ["Planta", "Hada"],
+        "x0_5": ["Veneno", "Tierra", "Roca", "Fantasma"],
+        "x0": ["Acero"]
+    },
+    "Tierra": {
+        "x2": ["Fuego", "Eléctrico", "Veneno", "Roca", "Acero"],
+        "x0_5": ["Planta", "Bicho"],
+        "x0": ["Volador"]
+    },
+    "Volador": {
+        "x2": ["Planta", "Lucha", "Bicho"],
+        "x0_5": ["Eléctrico", "Roca", "Acero"],
+        "x0": []
+    },
+    "Psíquico": {
+        "x2": ["Lucha", "Veneno"],
+        "x0_5": ["Psíquico", "Acero"],
+        "x0": ["Siniestro"]
+    },
+    "Bicho": {
+        "x2": ["Planta", "Psíquico", "Siniestro"],
+        "x0_5": ["Fuego", "Lucha", "Veneno", "Volador", "Fantasma", "Acero", "Hada"],
+        "x0": []
+    },
+    "Roca": {
+        "x2": ["Fuego", "Hielo", "Volador", "Bicho"],
+        "x0_5": ["Lucha", "Tierra", "Acero"],
+        "x0": []
+    },
+    "Fantasma": {
+        "x2": ["Psíquico", "Fantasma"],
+        "x0_5": ["Siniestro"],
+        "x0": ["Normal"]
+    },
+    "Dragón": {
+        "x2": ["Dragón"],
+        "x0_5": ["Acero"],
+        "x0": ["Hada"]
+    },
+    "Siniestro": {
+        "x2": ["Psíquico", "Fantasma"],
+        "x0_5": ["Lucha", "Siniestro", "Hada"],
+        "x0": []
+    },
+    "Acero": {
+        "x2": ["Hielo", "Roca", "Hada"],
+        "x0_5": ["Fuego", "Agua", "Eléctrico", "Acero"],
+        "x0": []
+    },
+    "Hada": {
+        "x2": ["Lucha", "Dragón", "Siniestro"],
+        "x0_5": ["Fuego", "Veneno", "Acero"],
+        "x0": []
+    }
+}

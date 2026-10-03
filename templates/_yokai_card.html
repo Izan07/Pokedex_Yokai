@@ -1,0 +1,22 @@
+<article class="card yokai-card" data-yokai-slug="{{ yokai.slug }}">
+    <div class="pokemon-art">
+        <img src="{{ yokai.image_url }}" alt="{{ yokai.name }}">
+    </div>
+    <div class="card-body">
+        <div class="card-title-row">
+            <h2>{{ yokai.name }}</h2>
+            <button class="favorite-toggle" type="button" data-favorite-button data-yokai-slug="{{ yokai.slug }}" aria-label="Añadir a favoritos" aria-pressed="false" title="Añadir a favoritos">
+                <span aria-hidden="true">☆</span>
+            </button>
+        </div>
+        <div class="types">
+            {% for type in yokai.types %}
+                <span class="badge type-{{ type.css_class }}">{{ type.name }}</span>
+            {% endfor %}
+            {% if yokai.rareza %}
+                <span class="badge rarity rarity-{{ yokai.rarity_class }}"><span aria-hidden="true">{{ yokai.rarity_icon }}</span>{{ yokai.rareza }}</span>
+            {% endif %}
+        </div>
+        <a class="button" href="{{ url_for('detail', slug=yokai.slug) }}">Ver detalle</a>
+    </div>
+</article>

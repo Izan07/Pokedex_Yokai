@@ -1,0 +1,106 @@
+{% extends "base.html" %}
+
+{% block content %}
+<section class="page-title">
+    <div>
+        <p class="eyebrow">Colección local · {{ total_yokai }} Yo-kai</p>
+        <h1>Pokédex Yo-kai Watch</h1>
+    </div>
+    <a class="button primary" href="{{ url_for('add') }}">Nuevo Yo-kai</a>
+</section>
+
+<form class="filters" method="get" action="{{ url_for('index') }}" autocomplete="off">
+    <label class="filter-field search-field">
+        <span>Buscar por nombre</span>
+        <div class="search-control">
+            <input id="yokai-search" type="search" name="search" value="{{ filters.get('search', '') }}" placeholder="Nombre del Yo-kai" autocomplete="off" aria-controls="yokai-grid">
+            <button class="search-clear" id="clear-search" type="button" aria-label="Limpiar búsqueda" title="Limpiar búsqueda" {% if not filters.get('search', '') %}hidden{% endif %}>×</button>
+        </div>
+    </label>
+
+    <label class="filter-field">
+        <span>Tipo</span>
+        <select name="type">
+            <option value="">Todos</option>
+            {% for type in all_types %}
+                <option value="{{ type }}" {% if type in filters.getlist('type') %}selected{% endif %}>{{ type }}</option>
+            {% endfor %}
+        </select>
+    </label>
+
+    <label class="filter-field">
+        <span>Nº de tipos</span>
+        <select name="type_count">
+            <option value="">Cualquiera</option>
+            <option value="1" {% if filters.get('type_count') == '1' %}selected{% endif %}>Monotipo</option>
+            <option value="2" {% if filters.get('type_count') == '2' %}selected{% endif %}>Dos tipos</option>
+        </select>
+    </label>
+
+    <label class="filter-field">
+        <span>Rareza</span>
+        <select name="rareza">
+            <option value="">Todas las rarezas</option>
+            <option value="none" {% if filters.get('rareza') == 'none' %}selected{% endif %}>Sin categoría especial</option>
+            {% for rarity in rarity_labels %}
+                <option value="{{ rarity }}" {% if filters.get('rareza') == rarity %}selected{% endif %}>{{ rarity }}</option>
+            {% endfor %}
+        </select>
+    </label>
+
+    <div class="filter-actions">
+        <button class="button primary" type="submit">Buscar</button>
+        <a class="button" href="{{ url_for('index') }}">Limpiar</a>
+    </div>
+    <a class="button random-button" href="{{ url_for('random_yokai') }}">🎲 Sorpréndeme</a>
+</form>
+
+<section class="grid" id="yokai-grid">
+    {% for yokai in yokai_list %}
+        {% include "_yokai_card.html" %}
+    {% endfor %}
+</section>
+
+<p class="no-results" id="live-no-results" role="status" {% if yokai_list %}hidden{% endif %}>{% if filters.get('search', '') %}No se encontró ningún Yo-kai con ese nombre.{% else %}No hay Yo-kai que coincidan con los filtros.{% endif %}</p>
+
+<script>
+    const searchInput = document.getElementById("yokai-search");
+    const clearSearch = document.getElementById("clear-search");
+    const cards = Array.from(document.querySelectorAll(".yokai-card"));
+    const liveNoResults = document.getElementById("live-no-results");
+    const normalizeName = (value) => value
+        .normalize("NFD")
+        .replace(/[\u0300-\u036f]/g, "")
+        .toLocaleLowerCase("es");
+
+    const updateSearch = () => {
+        const query = normalizeName(searchInput.value.trim());
+        let visibleCount = 0;
+
+        cards.forEach((card) => {
+            const name = normalizeName(card.querySelector("h2").textContent);
+            const matches = name.includes(query);
+            card.hidden = !matches;
+            if (matches) visibleCount += 1;
+        });
+
+        clearSearch.hidden = !searchInput.value;
+        if (liveNoResults) {
+            liveNoResults.hidden = visibleCount > 0;
+            liveNoResults.textContent = query
+                ? "No se encontró ningún Yo-kai con ese nombre."
+                : "No hay Yo-kai que coincidan con los filtros.";
+        }
+    };
+
+    searchInput.addEventListener("input", updateSearch);
+    clearSearch.addEventListener("click", () => {
+        const params = new URLSearchParams(window.location.search);
+        params.delete("search");
+        const query = params.toString();
+        window.location.assign(window.location.pathname + (query ? "?" + query : ""));
+    });
+    updateSearch();
+</script>
+<script src="{{ url_for('static', filename='js/favorites.js') }}" defer></script>
+{% endblock %}

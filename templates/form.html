@@ -1,0 +1,59 @@
+{% extends "base.html" %}
+
+{% block content %}
+<section class="page-title">
+    <h1>{{ action }} Yo-kai</h1>
+</section>
+
+<form class="pokemon-form" method="post">
+    <label>
+        Nombre
+        <input type="text" name="name" value="{{ yokai.nombre if yokai else '' }}" required>
+    </label>
+
+    <label>
+        Tipo principal
+        <select name="type1" required>
+            <option value="">Selecciona un tipo</option>
+            {% for type in all_types %}
+                <option value="{{ type }}" {% if yokai and yokai.tipo1 == type %}selected{% endif %}>{{ type }}</option>
+            {% endfor %}
+        </select>
+    </label>
+
+    <label>
+        Tipo secundario (opcional)
+        <select name="type2">
+            <option value="">Sin segundo tipo</option>
+            {% for type in all_types %}
+                <option value="{{ type }}" {% if yokai and yokai.tipo2 == type %}selected{% endif %}>{{ type }}</option>
+            {% endfor %}
+        </select>
+    </label>
+
+    <label>
+        Rareza (opcional)
+        <select name="rareza">
+            <option value="">Sin categoría especial</option>
+            {% for rarity in rarity_labels %}
+                <option value="{{ rarity }}" {% if yokai and yokai.rareza == rarity %}selected{% endif %}>{{ rarity }}</option>
+            {% endfor %}
+        </select>
+    </label>
+
+    <fieldset class="characteristics-fields">
+        <legend>Características (0–255)</legend>
+        {% for label, css_class in stat_fields %}
+            <label>
+                {{ label }}
+                <input type="number" name="stat_{{ css_class }}" min="0" max="255" step="1" value="{{ yokai.caracteristicas.get(label, 0) if yokai and yokai.caracteristicas else 0 }}" required>
+            </label>
+        {% endfor %}
+    </fieldset>
+
+    <div class="form-actions">
+        <button class="button primary" type="submit">{{ action }}</button>
+        <a class="button" href="{{ url_for('index') }}">Cancelar</a>
+    </div>
+</form>
+{% endblock %}

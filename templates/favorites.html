@@ -1,0 +1,19 @@
+{% extends "base.html" %}
+
+{% block content %}
+<section class="page-title">
+    <div>
+        <p class="eyebrow">Tu colección personal</p>
+        <h1>Mis favoritos</h1>
+    </div>
+</section>
+
+<section class="grid favorites-grid" data-favorites-page>
+    {% for yokai in yokai_list %}
+        {% include "_yokai_card.html" %}
+    {% endfor %}
+</section>
+<p class="no-results favorites-empty" data-favorites-empty hidden>Aún no has marcado ningún favorito.</p>
+
+<script src="{{ url_for('static', filename='js/favorites.js') }}" defer></script>
+{% endblock %}

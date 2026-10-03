@@ -1,0 +1,60 @@
+{% extends "base.html" %}
+
+{% block content %}
+<section class="page-title">
+    <div>
+        <p class="eyebrow">Datos del JSON local · {{ total_type_appearances }} apariciones</p>
+        <h1>Distribución por tipo</h1>
+    </div>
+</section>
+
+<section class="stats-card featured type-distribution">
+    <figure class="type-pie-figure">
+        <svg class="type-pie" viewBox="0 0 320 320" role="img" aria-labelledby="pie-title pie-description">
+            <title id="pie-title">Distribución de apariciones de tipo</title>
+            <desc id="pie-description">Gráfico circular con el porcentaje de apariciones de cada tipo de Yo-kai.</desc>
+            {% for slice in pie_slices %}
+                <path class="pie-slice" d="{{ slice.path }}" fill="{{ slice.color }}" tabindex="0" data-tooltip="{{ slice.name }}: {{ slice.percentage }}%">
+                    <title>{{ slice.name }}: {{ slice.percentage }}%</title>
+                </path>
+            {% endfor %}
+        </svg>
+        <figcaption class="chart-tooltip" id="type-chart-tooltip" aria-live="polite">Pasa o toca una porción para ver su porcentaje.</figcaption>
+    </figure>
+
+    <div class="type-legend">
+        <h2>Apariciones por tipo</h2>
+        <div class="type-ranking">
+            {% for slice in pie_slices %}
+                <div class="ranking-row">
+                    <span class="rank">#{{ loop.index }}</span>
+                    <span class="badge type-{{ slice.css_class }}">{{ slice.name }}</span>
+                    <strong>{{ slice.count }}</strong>
+                </div>
+            {% else %}
+                <p>Sin datos</p>
+            {% endfor %}
+        </div>
+    </div>
+</section>
+
+<script>
+    const chartTooltip = document.getElementById("type-chart-tooltip");
+    const defaultTooltip = "Pasa o toca una porción para ver su porcentaje.";
+
+    document.querySelectorAll(".pie-slice").forEach((slice) => {
+        const showTooltip = () => {
+            chartTooltip.textContent = slice.dataset.tooltip;
+        };
+        slice.addEventListener("pointerenter", showTooltip);
+        slice.addEventListener("focus", showTooltip);
+        slice.addEventListener("touchstart", showTooltip, { passive: true });
+        slice.addEventListener("pointerleave", (event) => {
+            if (event.pointerType !== "touch") chartTooltip.textContent = defaultTooltip;
+        });
+        slice.addEventListener("blur", () => {
+            chartTooltip.textContent = defaultTooltip;
+        });
+    });
+</script>
+{% endblock %}
